@@ -1,0 +1,30 @@
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]דקומנטרי-1[/COLOR]</name>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple2/v4/46/ff/ae/46ffae12-bda5-3236-79b1-bf5751fac557/source/512x512bb.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/31.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]טבע-1[/COLOR]</name>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple2/v4/46/ff/ae/46ffae12-bda5-3236-79b1-bf5751fac557/source/512x512bb.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/48.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]דקומנטרי-2[/COLOR]</name>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple2/v4/46/ff/ae/46ffae12-bda5-3236-79b1-bf5751fac557/source/512x512bb.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/59.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]דקומנטרי-3[/COLOR]</name>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple2/v4/46/ff/ae/46ffae12-bda5-3236-79b1-bf5751fac557/source/512x512bb.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/64.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]דקומנטרי-4[/COLOR]</name>
+<thumbnail>https://is5-ssl.mzstatic.com/image/thumb/Purple2/v4/46/ff/ae/46ffae12-bda5-3236-79b1-bf5751fac557/source/512x512bb.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/65.txt</link>
+</dir>
+

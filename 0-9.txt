@@ -1,0 +1,60 @@
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]לייף סטייל-1[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/30.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]אוכל[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/34.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]זומבה[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/50.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]תרגילי כושר[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/51.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]יוגה[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/52.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]טיפוח ויופי[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/53.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]קצת יותר בריא[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/54.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]רפואה מיקצועית[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/55.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]תוכניות בידור מהעבר[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/57.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]תדרים בינאורלים[/COLOR]</name>
+<thumbnail>https://freepngimg.com/thumb/categories/1523.png</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/63.txt</link>
+</dir>
+

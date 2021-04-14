@@ -1,0 +1,60 @@
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]ספורט[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>***</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]קרבות גוף[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/36.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]כדורסל ישראלי[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/37.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]כדורגל ישראלי[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/38.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]NBA[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/39.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]אגרוף[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/40.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]ספורט-דקומנטרי[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/41.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]ספורט-נשים[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/56.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]POLARIS[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/61.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]SPORTEXTREME[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/17.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/62.txt</link>
+</dir>
+

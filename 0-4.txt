@@ -1,0 +1,60 @@
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה ישראלית רישמית[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/3.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]עכשיו מוזיקה[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/4.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]DJ-WHO[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/5.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]VEVO TUBE[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/7.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-1[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/32.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-2[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/35.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-3[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/42.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-4[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/43.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-5[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/44.txt</link>
+</dir>
+
+<dir>
+<name>[COLOR blue][COLOR deepskyblue]מוזיקה-6[/COLOR]</name>
+<thumbnail>http://ngarba.xyz/adds/yos/12.jpg</thumbnail><fanart>https://images4.alphacoders.com/743/thumb-1920-74324.jpg</fanart>
+<link>https://github.com/yonni55555/003/raw/main/67.txt</link>
+</dir>
+
