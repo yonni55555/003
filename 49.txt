@@ -1,0 +1,27 @@
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff4bae97][B][COLOR aqua]-Real Street Fights[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=worldstarhiphop%20street%20fights/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb2e8cf][B][COLOR aqua]-Wu Tang Collection - 2,611 Videos[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCUpbgPbDccjoB9PxI-nI7oA/playlist/PLcG66PDG1cyuZBuU7eeUh4b2nGkudDFRn/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff17681a][B][COLOR aqua]-Superheroines - Girl Power![/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCUpbgPbDccjoB9PxI-nI7oA/playlist/PLcG66PDG1cytzsrbJGJwxurHYa6MaOnuy/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffd3d3d][B][COLOR aqua]-1,475 - Kung Fu Films (Youtube)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLSvPwyvZG6xZXHU1NtfyLUKiqgtzf8i84/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff758c44][B][COLOR aqua]Martial Arts Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=martial%20arts%20movies/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff5ece75][B][COLOR aqua]Kung Fu Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=kung%20fu%20movies/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff325645][B][COLOR aqua]-[/COLOR][COLOR aqua]Bruce Lee[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=bruce%20lee/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9d886e][B][COLOR aqua]-[/COLOR][COLOR aqua]Chuck Norris[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Chuck%20Norris/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffde0eb6][B][COLOR aqua]-[/COLOR][COLOR aqua]Chuck Norris VS. ????[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Chuck%20Norris%20vs/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff6c21a5][B][COLOR aqua]-[/COLOR][COLOR aqua]Steven Seagal[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Steven%20Seagal/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe8717a][B][COLOR aqua]-[/COLOR][COLOR aqua]Jackie Chan[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Jackie%20Chan/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff68882a][B][COLOR aqua]-[/COLOR][COLOR aqua]Jean-Claude Van Damme[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Jean-Claude%20Van%20Damme/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7994f6][B][COLOR aqua]-[/COLOR][COLOR aqua]Dolph Lundgren[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Dolph%20Lundgren/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffeab8e3][B][COLOR aqua]-[/COLOR][COLOR aqua]Cynthia Rothrock[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=Cynthia%20Rothrock/?page=1</link><thumbnail>Kung Fu.png</thumbnail></dir>

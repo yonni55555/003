@@ -1,0 +1,19 @@
+<dir><title>[B][COLOR aqua]סרטונים כלליים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=KODI &search_type=playlist/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]VPNRanks [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC9Ll3FoujcdMb46GEkJ4lYg/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Electric MD [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC-k3qiN7j63HpKjEYoa6zMQ/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+<dir><title>[COLOR aqua]KODI CANAL [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=KODI CANAL&search_type=playlist,art+ 'https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+   
+<dir><title>[COLOR aqua]Chris Caserta [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCAgTLyhnm3P38W8nWHJc0Xg/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+     
+<dir><title>[COLOR aqua]GoJoe Productions [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCr6_FEDtv7vwsm1C1GImTYA/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]NO ISSUE [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=KODI NO ISSUE&search_type=playlist,art+ 'https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ocanalonline [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ocanalonline</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]KODI ADDONS [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=KODI%20ADDONS&search_type=playlist,art+ 'https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]MeacePeace [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCx55aM88WDVMS-AR_q_VKUg/?page=1</link><thumbnail>https://archive.org/download/KodiIcon/kodi%20icon.png</thumbnail></dir>

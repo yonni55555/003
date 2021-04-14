@@ -1,0 +1,159 @@
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff5eaec2][B][COLOR aqua]Animation Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=animation%20movies/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0f6f49][B][COLOR aqua]Cartoons Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=cartoons%20movies/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff43a196][B][COLOR aqua]Anime Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=anime%20movies/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff03a462][B]ABC Kid.tv[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCbCmjCuTUZos6Inko4u57UQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff16c772][B]Baby Joy Joy[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCkIz27-hS4O-mCiChXZgNKw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9e3f3a][B]Blues Clues[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCesJOpRA7VlQV87nRPPeKlA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff68169][B]Bob the Builder[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCZLYbETi-hygKzyCerJ5daw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd2e85e][B]Bob the Builder (Australia)[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC4-ct2mbZsOwSDf000L8bNg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe9e42b][B]Bob the Builder (US)[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCXv3404_UQsWG46lTgx2MRQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFffb78eb1][B]The Brain Scoop[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCkyfHZ6bY2TjqbJhiH8Y2QQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil[/COLOR][/B] [COLOR FFffc0bde4][B]Caillou[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC4yQCVlLhTmOqX5kUkAGr0g/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil[/COLOR][/B] [COLOR FFff171fa4][B]Caillou - Full HD Episodes[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLC9Qdm15h_EVixE4J9SbZgkWLBNqEldS9/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3162ac][B]Crash Course Kids[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCONtPx56PSebXJOxbFv-2jQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffbc5ff7][B]Farmees - Nursery Rhymes And Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCu9MYfF0vosVcK38oNnnJxw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFffb98bf5][B]Geek Gurl Diaries[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCxrp2coE9wRrnlOO3V3UmdQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7ed003][B]HooplaKidz - Official Nursery Rhymes Channel[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC3djj8jS0370cu_ghKs_Ong/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff2f9981][B]HooplaKidz How To - DIY Crafts and Play Doh Videos[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCxkkhCFRexEyFHUHEcH5Uzg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff31fecb][B]HooplaKidz TV - Funny Cartoons For Children[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCMfZ_z0LUm805JOZLktl2QQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffa182b8][B]HooplaKidz TV - Hoopla Lab[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCZYqWTQJzJaMW7jFG16p8ug/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff834548][B]HooplaKidz TV - Hoopla Recipes[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC-vObULK1w635bdFQpNlbQA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb3e2f7][B]HooplaKidz TV - Hoopla Kids Education[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCaIS49HEvpCrHuVCVEAYKWA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff13ee93][B]Junior Squad - nursery rhymes & kids songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCkOny4N1-Qn9UTx7pYnEL3A/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff5ae49b][B]Kids Channel - Cartoon Videos for Kids[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC3KknIJZXRygH2pZ6MDtGbg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3c637b][B]Kids Hut[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UChz5aEi3dfrDVC8-YJsMUDA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffeab388][B]Kids Rhymes - Cartoon Videos for Children[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCf4-1iHEgNgNWH_HKmYAtcw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffeb4d34][B]Kids TV[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC7Pq3Ko42YpkCB_Q4E981jw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFff26f1b8][B]Little Baby Bum[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCKAqou7V9FAWXpZd9xtOg3Q/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFff2c73fd][B]LBB Junior[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC3_PaZ3Eso1JkuJyE_v4-3g/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff528b73][B]Little Eddie - Nursery Rhymes and Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCXKuQPLe82SCtxtua4wWm8g/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFff24d5fd][B]Mother Goose Club[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCJkWoS4RsldA1coEIot5yDA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFff4602d1][B]Mother Goose Club - Playhouse[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC6zPzUJo8hu-5TzUk8IEC2Q/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil - [/COLOR][/B] [COLOR FFffa6d4ed][B]PBS KIDS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCrNnk0wFBnCS1awGjq_ijGQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff50acf6][B]Peppa Pig[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCAOtE1V7Ots4DjM8JLlrYgg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff81cb47][B]Peppa Pig - Full Episodes[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC1aLdPsHl5R81q4Ga0YBkBw/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff5feab6][B]Peppa Pig English Channel[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCmIZUrJjE4bgRqhd8BVvxsg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffc516c1][B]SciShow Kids[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCRFIPG2u1DxKLNuE3y2SjHA/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff04f4c][B]SmartGirls[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCi_BjZoqPnMmkCLv2FlyBxQ/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff658428][B]Videogyan Kids Shows - Cartoon Animation For Kids[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCCc1DMB-AcOssKJ7KweLXBg/playlists/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff14c9a3][B]Mr Tumble[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLaOdVmh27CVV-8ZOTM94zKAz0crRCYede/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff58db05][B]T-Series Kids Hut[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UChz5aEi3dfrDVC8-YJsMUDA/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff4cdcd8][B]ABC kid TV - Nursery Rhymes[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCbCmjCuTUZos6Inko4u57UQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff21093a][B]Super Simple Songs - Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCLsooMJoIpl_7ux2jvdPB-Q/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9ff346][B]Super Simple TV - Kids Shows & Cartoons[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCdIWg_E1ckuONPTsdvevYgg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff253d68][B]Blippi[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC5PYHgAzJ1wLEidB58SK6Xw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffcf5f5e][B]All Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCqxyozOILLj8EtMbKELaZEw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff43ac38][B]Geethanjali Kids - Rhymes and Stories[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCGVrxaJHUQHbPSUVDZ8sUVQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff2aece7][B]FlickBox Studios - Nursery Rhymes and Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCBMiY29jmxd9PGU74eT1xPg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff8ebbc5][B]ChuChu TV Nursery Rhymes & Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UCBnZ16ahKA2DZ_T5W0FPUXg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb9aed0][B]LooLoo Kids - Nursery Rhymes and Childrens Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC4NALVCmcmL5ntpV0thoH6w/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1f4ba8][B]Teletubbies[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCOk55dAgB8VnMlhaTEMeX5A/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff16cd95][B]Sesame Street[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCoookXUzPciGrEZEXmh4Jjg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff8b1242][B]StoryBots[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCAJnyTWJPpKXuwgWQDdNWrQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff650a08][B]Pingu TV[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCQAhOfRafGt-Zn23xSXQONQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0db3b4][B]Fairy Tales and Stories for Kids[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCOPzf8kf-FUDs32E7F2wGdg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff07f87][B]Little Treehouse Nursery Rhymes and Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCpzYfBXbEHHQHU2e89jM9Tg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff469a07][B]ABC Heroes - Kids Nursery Rhymes TV And Baby Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCeA2JrCAqRohEHHwAFJNY4Q/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff6b7f8][B]Farmees - Nursery Rhymes And Kids Songs[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCu9MYfF0vosVcK38oNnnJxw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9f0a55][B]Ben and Holly’s Little Kingdom[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC2UhuvjTIrR0Ck2KrkvRcuA/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffa29407][B]Fireman Sam[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCAJetkuJ2zz92WOJCrQvfkw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9fad1e][B]Postman pat[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCqrVPwN_DhavUC386xH9SDw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff76ef6d][B]The Childrens Channel[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC5ymceNk75lJuXJdFpYpubg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff18e66][B]Little Charley Bear[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCydekQV_GkprQFYMdgc8e6A/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff359d75][B]Little Red Tractor[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCLiE5PSUBr6OOsHOqvCJ0QQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb70a32][B]Fifi and The Flowertots[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC0j36_NCIX_eSc1nXfNGXVQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff323773][B]Veggie Tales[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UChddokv0fxIN3BS-KZpxFfA/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1cb2e7][B]Raa Raa the Noisy Lion[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC9y5Bed2UVb-kxBOt1nwQIQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe80311][B]Olivia The Pig[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCKe-7-MbrHXAUB3hYTa6pkw/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff5de79f][B]Finley The Fire Engine[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCvPaNPcE3xkn2ysrwWlDKrg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3202b8][B]Woody Woodpecker[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCB2aeGGPNj7l5Z71bYNqX-Q/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff58e012][B]George of the Jungle[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCOiiCp4BVYqUvnLP8G38Iow/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffea3724][B]He Man[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCWV0Qgo4Yz7E5_oNF4VJ6Rg/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff891e3][B]She Ra Princess of Power[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCUh6BtszC2-ubKiv0hLf6gQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff489adc][B]WildBrain - Cartoon Super Heroes[/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCUVnfQaEmCIhFZC5d_JniyQ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe915b0][B]Trumpton[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi54CNCXpfrrBUqLsAsIoYx5/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0a604e][B]Camberwick Green[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi6ji7pGGdLH2iabfVs2lv4g/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff064fd5][B]The Flumps[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi46fvEp93UJGJy7jKpgDXCS/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff848e36][B]Mr Benn[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi78njyijHli8BvcuQfCArtB/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff60a0c7][B]Bagpuss[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi75Oxs3r-LbWTKQ0a3RnWMZ/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe1abc5][B]Ivor The Engine[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLh-Mj_oSkpi589iXBX3sO5g0LRC3GJDKu/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff8dbda6][B]Postman Pat Series 1[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAQe205T2kVfRqwUiGOXlaMNcNFLRHc7x/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff06897c][B]Postman Pat Series 2[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAQe205T2kVfIUjMOCml5yIRoQe_T_V03/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff06d5ae][B]Postman Pat: The Specials[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAQe205T2kVfcayTqAPEDLExTw6x004-y/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffdf0096][B]Hectors House[/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL4CF4BE8E833147A1/?page=1</link><thumbnail>animals.jpg</thumbnail></dir>

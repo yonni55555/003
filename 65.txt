@@ -1,0 +1,64 @@
+<dir><title>[COLOR aqua]The First 48[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLyicTY7J3bULdNAG8fCZOMTM_PeOsomR0/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]A&E The First 48 (& After the First 48)Clips[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLcviVtB85dLxNwXqdrnKGSIAg8uL3JKuO/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]48 Hours Mystery[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLyLrnNOEPdo430q3kcZmUHtbbPfv4vycg/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]American Justice Cold Case Files[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLNlKG_zAzFm63zTKqzp2LqNZBazpjDCFM/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Uk True Crime Docs[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL4HLZHMq05jAiYLlIxWiwoXmEDBbIavBK/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Juiciest True Crime Shows[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL30kO8oVeDkpdNVGciv4YPyL1k4IXiEIF/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]True Crime With Aphrodite Jones[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdiXEhyBHpfWCGocPNSk5Mhtjsh41PsUS/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]On The Case With Paula Zahn[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLy7mi56uNHSm1UtIlJB4vppyKf2SvNLIL/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Homicide Hunter[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLD75qpSXCKDDuxGAlwIKoWT08FbSImWLv/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Deadly Women[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLEi83IaZq0XWJ0tKfSQ1QnRRFm5Tn2Hfv/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Deadly Affairs[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLSNE-2y4IBXjJe8SFBK2xXhBwLesTKHk-/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Nightmare Next Door[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLaTIGMOvay0V4nP9DL_Pyrxwb3nTSO4nw/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Evil Kin[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLS7E6enfYOvwG7sGj6Ep8HGwIRJBCInBM/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Surviving Evil[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLosYISkcFffb18AY3Nqu4WisNPOofHeRr/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Who The Bleep Did I Marry[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDrNp9S9i6UTr--BQeDzxKczdh7ri15GD/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Fatal Vows[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1T-A-PVavLLc9-gnyzVmcnpqMUilPe5C/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Wives with Knives[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPXjjzBAKhFOa5F-S9qAYWDc7SfQzWXm4/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Wicked Attraction[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4BOcSOdvFFuJZwWXam8FZF/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Cold Case Files[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdegvhPRrKSuKuqI4IH7nWk-_SCAH9VyX/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Forensic Files (check playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCPar4XXTkknIRtj-JSjiddw/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Solved[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5IEbzo4L3uddop8YvCyeXw/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Dr. G - Medical Examiner[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuiMMfezGgfZ9R0gXNosCAB63YcZ4N1IG/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Sins and Secrets[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6jkDCwMt49kGNtYI5ZiqexAuTaa7xdqP/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Behind Mansion Walls[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLUQCcRUCOfXbn5ushxnuWKRm8wZ2ZLtRA/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]I Almost Got Away With It[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMJCZB0MS5-N1ZvlfGRvEVCLjTWa4j_mI/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Americas Most Wanted[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFp4v4wRLrbyYlimv-IU7MlOjHkWdWO1T/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]FilmRise True Crime (check playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCU4BHh9Dwfd7-I_xTZ5037Q/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Medical Detectives (check playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCVBTlb6_rQkWY99ZKi2oBMw/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Sensing Murder[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL3E3xn5BmG284rjx3DWakZgXOM4RTj6nJ/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]CRIME Inc. Crime shows[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2OZWqbCOozITQXWNd2R4mrPq502d41v0/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Real Crime[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4oS3P5jAh8PrDLSaYHFV17/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]True Crime[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7Zz0dZN6-x2xNscGts5bpi/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>

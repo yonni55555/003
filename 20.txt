@@ -1,0 +1,10 @@
+<dir><title>[COLOR aqua]ערוץ זום כללי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ערוץ זום&search_type=playlist</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ציקה ומפירו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk2GEiyvpK-VxGigTDnHD_3C/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סוסי פרא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9FUtLp-Tfr3vR1EJa04KIDYskHfpsaQp/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מועדון החנונים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk0myYc1Z8oPLGO6hXJdf5uv/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סופר סטרייקה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk3bjgDUSlTPskV9rA74nBiB/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מועדון החנונים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk22xxgMwcNShgeBYNSfotbB/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אמאמביכה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk3yEo1xowld-EV_U7w8YwfF/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]איטי ועצבני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk08zM6SlJ3RrCu2_zdReijH/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פאוור  ריינגרס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk3KmFxp-8n4NtmdHGCQFxee/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]צפוף[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKMFPiSCwUk28xwNsCOGZr70pSaXxlnlk/?page=1</link><thumbnail>zoom.jpg</thumbnail></dir>

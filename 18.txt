@@ -1,0 +1,17 @@
+<dir><title>[COLOR aqua]הבית של פיסטוק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7D-QAVZ94EK-BHm7XG9BOl/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]נילס הולגרסון [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=נילס הולגרסון&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]דובוני אכפת לי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=דובוני אכפת לי&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הקוסם מארץ עוץ[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLrm9dDLqwrHnZF86MMTIb-Q3LSKLGLTDQ/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הדרדסים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הדרדסים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]צבי הנינגה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=צבי הנינגה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הלב [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הלב מרקו&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הקטקטים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הקטקטים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שוטרים וגנבים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שוטרים וגנבים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]גברת פלפלת [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=גברת פלפלת&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]החיים - היה היה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=החיים - היה היה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בלי סודות [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=בלי סודות&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]פרפר נחמד [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פרפר נחמד&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]דן הדוור [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=דן הדוור&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הדבורה מאיה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הדבורה מאיה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קשת וענן [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=קשת וענן&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>

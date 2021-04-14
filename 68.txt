@@ -1,0 +1,143 @@
+<dir><title>[COLOR aqua]סמי הכבאי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סמי הכבאי&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]רינת ויויו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLVisQUXwii8qa6lRDe1OmCIup6ylcprfc/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פסטיגל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwimDnICcPKPL4MdOLIQrGDMTOAshuQ2l/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מיקי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwimDnICcPKP4vFp6zklqeNUSdq08mN1H/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מר עגבניה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwimDnICcPKMSeyub1DLM_2jG4aPjqI7n/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]לולי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwimDnICcPKNQy5TSz2s5XKWsE6kKV5C1/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סופר סטרייקה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סופר סטרייקה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]דורימון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL95CWWe9DuaJ6xtv1V8ZxDvoG_cB3z4bc/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שירי ילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB03yaEG6T08Mg7haNKv673e/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מיכל הקטנה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTNonj9ImqaKElCJ-4e8X_3BzXvzEYU_0/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הדוד חיים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTNonj9ImqaIuFt2AyqdYFx6bCnKoFsIc/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פים ופימבה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTNonj9ImqaI2F7DHlMxZ3VDn8gwpaTKe/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]קופיקו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLQj4MAw08GNjVRSCvC8qbpjq0y6Zsfpho/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הלו קיטי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הלו קיטי&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שירים ישראלים לילדים ערוץ בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyXTMAJvmFXoW6Qe66Ztw0Fk/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]אוצר מילים עם נוני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyXmgk6cyROtlJh2g-Fk_T6n/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מתכוננים לשינה ערוץ בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyVYzsbPxH2dzhlWLs9sWGTa/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]חיות בערוץ לולי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTleo-h9TFqI2CFuWeFA-Q2Bu3BBHdXqv/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סיפורי התנכ עם סבא טוביה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סיפורי התנך עם סבא טוביה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סיפורים לילדים מרים רות[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סיפורים לילדים מרים רות&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]בארץ הקטקטים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=בארץ הקטקטים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]משטרת האגדות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QiaEmc56lGHMpxW4ladE93X/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]המעופפים הנועזים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=המעופפים הנועזים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]וולברין והאקס מן[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ילדים וולברין והאקס מן&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הצגות ומופעים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB2xJnDoV8Us1tbWnFyvxkWO/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הדרדסים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLo3vmw8N0knb9tZuIy7AR9fMPTUzr1oiI/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]קטני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbHXbhgZi5cL97NlobjLHNtBwIA9VHcmw/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שרגא בישגדא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5KPYOntZkqg2Nwyqj2M1Lf/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מיטב השירים פרפר נחמד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj45OPEXI-ibfJy8ON0k1ARh/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]קשת וענן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6qcpdP7e44dNj7xHuwd3oo/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]בלי סודות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5Alk2qONbzihcO1FVF1irZ/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]רגע עם דודלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5gUK-SIhbYyAMUQASzrZAw/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]חגי תשרי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4LOZbA2VzFPUTkheKOlmaE/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פיטר פן[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פיטר פן&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שאלתיאל קוואק[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שאלתיאל קוואק&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]המומינים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=המומינים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]נאנוק[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=נאנוק&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פינגווינים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פינגווינים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]בוב הבנאי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=בוב הבנאי&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]נילס הולגרסון[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=נילס הולגרסון&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הלב מרקו[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הלב מרקו&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שלגיה ושבעת הגמדים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שלגיה ושבעת הגמדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שלדון[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ילדים שלדון&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מולי וצומי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מולי וצומי&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מרתה מדברת[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מרתה מדברת&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]צארלי ולולה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=צארלי ולולה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פרפר נחמד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7XTzORdSrWpgCfF1x7ZUeK/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הורים וגורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5sp5nUKFuwuUddCXYjiH8F/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]צור משלנו[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=צור משלנו&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ילדים מספרים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ילדים מספרים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]אבות ובנים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אבות ובנים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]גלילאו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB14v2w1rx_drmWtZPldqgtp/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]החפרנים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB2JjD4-z7-2vZ3Ku6HtYc2U/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]נינגגו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL92EMTBYUH-FoPVTqddFyLgv0-J8Kl6By/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]צימה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=צימה/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מיקי מאוס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB14Il3yEmYCImeXjUsuG_fR/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מאסה ומישקה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLBE_VtpC1cB8IsjeMynvNnmMxhrdYvn2E/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]אותיות מצחיקות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8yBWSFu2PVOlN83H6uWvmH4o1w5871Ws/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]גברת פלפלת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6BkF-3g8VpYUlrU-Agk3WUAONoOaI09E/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מר קו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6BkF-3g8VpbfWb-7p-xPPzqPgkfgEQNK/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הזרבובים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הזרבובים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]דרגון בול זי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL92EMTBYUH-HCp123_rEC-Oth1DdDaHNY/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]רוץ דייגו רוץ[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=רוץ דייגו רוץ&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סיירי החלל[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סיירי החלל&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]רובוט פולי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsa30wWsZ_kCPrW5BBiFxckb7IBxiOvvs/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]יובל המבולבל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzAqQoYm2t2xi_8LMKWYVfW0DjchcSzv0/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]זאק וקוואק[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=זאק וקוואק&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]חבורת החצר[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חבורת החצר&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]בומבה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ילדים בומבה&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ברני וחברים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFw7KwIWHNB3eIoqm8vLyYpVzxzOtHrK-/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פלישת הרבידים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLo69t7VQCjOHld0iP6VxBIfEdMWdeaSSu/?page=1</link><thumbnail>kids.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]לימוד אנגלית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqsYSvVJ2b7GhPj-_Xbx7okwcuO8nODHW&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>

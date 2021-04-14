@@ -1,0 +1,22 @@
+<dir><title>[COLOR aqua]ערוץ הטיולים - לטייל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeh1TPHGKHcC0frpxT30gpX32Mc1DMStx/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]המדריך לתייר בגלקסיה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeh1TPHGKHcAriEIJEPLnZ7Qsm3Fh6ELx/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אוכל רחוב מסביב לעולם [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אוכל רחוב מסביב לעולם&search_type=playlist</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סקי וסנובורד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFZHg-6S5_GcrVsP97cT7KoYQQD5vNEQr/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טיולי משפחות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFZHg-6S5_GfMOlbWErniSqxw9ygllSGL/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טיולים בעולם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFZHg-6S5_GcIWZJp6-o4lo4vSuDQrrPt/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מדריכי טיולים - אשת טורס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1E93715FC3C00F68/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]עצות המומחים - כל מה שצריך לדעת על ציוד טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFZHg-6S5_GcQdP7V_Q3-6HF9pTUWQ8I_/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]המסע המופלא של אהרוני גידי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=המסע המופלא של אהרוני וגידי&search_type=playlist</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אוכל רחוב[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אוכל רחוב&search_type=playlist</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ערים בעולם - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLe9OS0jiMKcJ28LhxyvJzHrVGfI2AJe-q/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אירופה - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDlvzhdA4-Pdv-zwkSUGr5-Bu_nn_33bP/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]צפון אמריקה - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdgCSoJzrmKHhvEWqmb3-1tUQmT8ZWBrv/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אפריקה - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDlvzhdA4-PeKVe1Tyf8EZYhxCunhYwgG/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]יפן - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL14F9F774CE8798C3/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ארצות הברית - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOVadUHX1B-Kv1gRgHpJoe33hGodcPi8R/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מדריך טיולים לערים שונות בעולם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL-NQ0KYodq5MkFgQJEpWTGELcEaLIJdVx/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]רומא - מדריך טיולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLEC3E8FCF38E57252/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטונים פופולריים – Travel Channel[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL_xzw4jKGLrlQKx7hvUF5B5FvVhzUtvw6/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אוכל ביזארי עם Andrew Zimmern[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL7Yaf7nQHP3CM6bLT6acdsOhQoKCmb75c/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטונים פופולריים – Aerial America[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLnr8iIChmNnEy89DZIe6DKSeS4qKAe1hx/?page=1</link><thumbnail>travel.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטונים פופולריים – Hotel Impossible[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLF_H8SZXratCdL4Mv3fHRVfnj2SYw3bxr/?page=1</link><thumbnail>travel.png</thumbnail></dir>2

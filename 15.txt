@@ -1,0 +1,12 @@
+<dir><title>[COLOR aqua]מחווה לאמן בקאמרי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7m81J5ClB3hjdIZ6CN3uwH/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מוזיקה היום[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4HjSMomAQkLAxTezmoREXn/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אני גיטרה - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4VO17d-PgLgwhuUMkelg4k/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אני גיטרה - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4SY2HwfowNP3nQ9hKpL2Ko/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פסקול ישראלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4BhoUBgEoRl0LP94e1ivAo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חלום לים התיכון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5h_EJBX7YvcKSuclmG2mA6/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דואט ישראלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7IzrXIoNEfXzq0BOG-vClM/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארכיון רשות השידור - מוזיקה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdXPHsgVJz0lYhzXrUU_9MxO/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כדי שלא יאבד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4dK_dKGEwJY0wG5HYkLLs-/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זו ילדותי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj42DChiYRjfKMHWF5yBKpmJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מוזיקה ישראלית - קליפים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL0CA90DCC0F764E88/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פסטיבל שירי ילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giryds243PO_ocr2I2cEJb44/?page=1</link><thumbnail>23.jpg</thumbnail></dir>2

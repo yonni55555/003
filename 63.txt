@@ -1,0 +1,27 @@
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Binaural Beats[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1XppzO3CJXArhUGMMRCftofUn/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Hypnosis Music[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1Xpq2yKfEhAGq1y_7xbReo5yW/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Chakra Healing Meditation[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1Xpo-RVxXo7RB5bfNV0vUvOqX/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Solfeggio Frequencies[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1XprI3lBRn49QbZknCJj1ayuE/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Manifestation Meditation[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1XprsiFs2ojYbCbqmpxjWmDw9/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Deep Sleep Music[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1Xpqs4UMwyepR4-3dXssvBPPH/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Concentration & Focus Music[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1XpqdE9dVu12Rfz1EXPteotSn/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]• [/COLOR][COLOR white]Stress Relief & Healing[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbXZkxjs1XppowhA3bCFIADxtbA_Mo_yB/?page=1</link><thumbnail>yoga.png</thumbnail></dir>
+
+
+
+
+

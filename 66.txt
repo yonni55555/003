@@ -1,0 +1,32 @@
+<dir><title>[COLOR aqua]CiNENET[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCfjp6_4aAvhDGzvSkkAo0Jg/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Manic Movies[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCMMLfzsXe-EbRREJgMcb8cQ/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Western Mania[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCPUU5swJo5XLqvn77s6FB8g/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Maverick Movies[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC2u3R3pjOiPZu4LtTlKkxdw/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]Timeless Classic Movies[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCOg0aMAXmF3o5m243PxhE5g/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Timeless Classic Films (see playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCWlLgwn2nfjnefINARfcquA/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Timeless Western Movies[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCh51cE9j1n206mAZslHtf6A/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]The Video Cellar (see playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCBhskwCpv4Df8-xC8_wGxzA/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Anton Pictures (check playlists)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCCq30E9PwvbpXaaM26Btw2g/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Classic TV Movies[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC-n2mADCBq--iuhwlroP4ig/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Froggy Flix[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCQf0IhUn2-S5-mEP3Mw-Kog/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Movies (drelbcom)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCNLOeImyafrTNvHqdsBpGHQ/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Classic Movies (one4allfour1)[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCpqNeR8PGoU8zs86DAf2B0Q/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Great Classic Movies[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeagipoZmyfnIxkk9qKN-ewkuDeI-JP0i/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[COLOR aqua]World War Cinema[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TWyW6nJCPdj51WA-sMOozwD/?page=1</link><thumbnail>movies.png</thumbnail></dir>

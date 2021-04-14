@@ -1,0 +1,3 @@
+<dir><title>[COLOR aqua]זומבה דאנס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioOmt7R89JpPsy9t0c9vLp8/?page=1</link><thumbnail>zomba.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שיעורי זומבה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioKGl8no2GUbVp3Qbbg2Utk/?page=1</link><thumbnail>zomba.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שיעורי פילאטיס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giob_DoXgZvAmjZyNjV3t7OR/?page=1</link><thumbnail>pilates.png</thumbnail></dir>

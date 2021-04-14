@@ -1,0 +1,27 @@
+<dir><title>[B][COLOR burlywood]בקשות מיוחדות [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ONE Championship - The Home of Martial Arts/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]חלל וחקר [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=NASA: Need Some Space?/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]תוכניות בתים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Tiny House Expedition: EPIC Road Trip with a BIG Purpose/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]רעיונות עסקיים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Entrepreneur/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]חיסכון בכסף וחיים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Money saving and life hacks North Star*/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]שעות היום ושיחות הלילה [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Daytime & Latenight talk shows/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]מארוול [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Dnorth Star*/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]ספורט מטורף [/COLOR][/B]</title><link> plugin://plugin.video.youtube/kodion/search/query/?q=FIFATV/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]עולם המים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=JacuzziSurfer/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]קריוקי מטורף [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Sing King Karaoke/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]קדחת קריוקי [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=About KaraFun !/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]Car-e-oke Carpool [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Car-e-0ke carpool/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]מוסיקה אקספרס [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Music express/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>
+
+<dir><title>[B][COLOR burlywood]משחקים [/COLOR][/B]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Gamers corner/?page=1</link><thumbnail>https://www.psyshop.com/img/soc1dw081_b.jpg</thumbnail></dir>2

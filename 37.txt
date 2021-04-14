@@ -1,0 +1,6 @@
+<dir><title>[COLOR aqua]משחקים מלאים NCAA[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6Bd4hQKgOo81RSUYKV9ko4KzNFPoKgVB/?page=1</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]משחקי כדורסל מלאים ישראל [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=משחקי כדורסל מלאים ישראל&search_type=playlist</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]כדורסל מכבי תל אביב משחקים מלאים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=כדורסל מכבי תל אביב משחקים מלאים&search_type=playlist</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]כדורסל מכבי תל אביב משחקים מלאים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLGU699iLiZVtqvNmge4rcS10ZBvsZ4CIU/?page=1</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]כדורסל מכבי תל אביב רגעים גדולים  [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCVlaHqhBqzBD70sBUpjzXOA/playlist/PLD209279A5534F91E/</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הפועל ירושלים משחקים מלאים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הפועל ירושלים כדורסל משחקים מלאים &search_type=playlist</link><thumbnail>Sports.png</thumbnail></dir>

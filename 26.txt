@@ -1,0 +1,13 @@
+<dir><title>[COLOR aqua]בייבי כללי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ערוץ בייבי  &search_type=playlist</link><thumbnail>baby.jpg</thumbnail></dir>    
+<dir><title>[COLOR aqua]ערוץ בייבי - תוכניות ברצף[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyWqQlU1CqCdPs15WhnAzzwb/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שירים ישראליים לילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyXTMAJvmFXoW6Qe66Ztw0Fk/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קיץ עם ערוץ בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyWdetl6GmsKjp4hIlaR6BDl/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פרקים מיוחדים ליום ההולדת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyWWl7sL3Oh25LxgXe5Vgpwz/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חגי ישראל עם רינת גבאי ומימי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חגי ישראל עם רינת גבאי ומימי&search_type=playlist</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חורף עם ערוץ בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyV4DL2r3vpo74zeJuWa8K1x/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוצר מילים עם נוני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyXmgk6cyROtlJh2g-Fk_T6n/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רינת גבאי ומימי בארץ המילים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyX7c9LjwlY22F3cjpI5h6V_/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דרקו ותולי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyVJhg76kIibughL6QiHgN2-/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוליבר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyX1gmsKze-1WjpDoNefNYJD/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מתכוננים לשינה עם ערוץ בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyVYzsbPxH2dzhlWLs9sWGTa/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>		
+<dir><title>[COLOR aqua]רינת גבאי בעולם האגדות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLErYJg2XgxyWiffjko4BQmExqDdR6-C4v/?page=1</link><thumbnail>baby.jpg</thumbnail></dir>

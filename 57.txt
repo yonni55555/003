@@ -1,0 +1,9 @@
+<dir><title>[COLOR aqua]אחותי ג'קי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-CoPB9IdwmSkRufOgpuCl7z/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות הבידור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-Dec23P2ZkgwLxKJNfLtRHT/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua] TAKE2 - ירדן הראל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-DPm0PZafI_RrVUbs00KR4V&index=8/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות הבידור סטייל - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-BzGNV3cOUQfuGH0HGFPA3c/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות הבידור סטייל - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-A_YA5q6FJRJCU-2eun-XvL/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות הבידור אקסטרא - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-A-ZyCv5VWIf1w18Z9o7lnB/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]איט שואו - מור סילבר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9Pg1--nVI-CmL20prVKQypHq80yD8O5c/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]החיים עפ נועה תשבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GiqaoOxINXZftJyCxA0vlcfn/?page=1</link><thumbnail>bidor.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מילון היופי - מילון היופי - סנדרה רינגלר, מימי לוזון וגליה תורן חן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLSYnaPG2TDbw1RSrTSf7JRL6bLUkpbfFP/?page=1</link><thumbnail>bidor.png</thumbnail></dir>2

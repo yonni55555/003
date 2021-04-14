@@ -1,0 +1,6 @@
+<dir><title>[COLOR aqua]קצת יותר בריא עם אפרת אנזל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV8-A-8jwKUa5o5gCoOEyLhIn/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חיים בריא עם שירלי בר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gioo6w9A2nNdL-mrGUh78V-n/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>
+<dir><title>[COLOR aqua]לבשל בריא עם שירלי בר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giq6Dz1S0SV2JwP2jjCI1rGZ/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קורס להכנת עוגות - הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipTRJBIkECddRvS2rlJ8Pm7/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טבעונים ונהנים - הבלוג של אנוצ'קה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRASpuvjMTWacQDUkuj8fEps665OyWwRB/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מתכונים טבעוני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gio9WFuWPNfimkR3PAzUUKEp/?page=1</link><thumbnail>nutrition.png</thumbnail></dir>

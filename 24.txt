@@ -1,0 +1,4 @@
+<dir><title>[COLOR aqua]הופ ילדות ישראלית כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCfNjGgy-3XfTzgWoGMt_QOw/?page=1</link><thumbnail>hopy.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]שירי נעמי שמר [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שירי נעמי שמר&search_type=playlist</link><thumbnail>hopy.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שירי אריק איינשטיין - שירים ילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שירי אריק איינשטיין - שירים ילדים&search_type=playlist</link><thumbnail>hopy.jpg</thumbnail></dir>2

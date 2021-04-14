@@ -1,0 +1,47 @@
+<dir><title>[COLOR aqua]  *Time Team Seasons 1 - 10   [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4iT-6j0i5XL0X0iFvzFMSs/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Time Team Seasons 11 - 20  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4ZNf81GfG-Zssyy80yO2HZ/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Time Team America, Tony Robinson and More  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC77DGLArw00z61LWsBXFQmj/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua] *Timewatch - Time Travellers*   [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5Xi648qL0kMADk06InTqgG/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]  Three Kingdoms (95 episodes - Eng sub)  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLCldpz_Pc1FrGQLsaxaV0kVPqmXN_nanN/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]  *The Ancient World  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5giQaRkK6f5xQC_2dvAeKb/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History Series (1)  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4dn12Yx7CyaIlyTXyfDdrD/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History Series (2)  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC62UzE1wwOTWfVjRKGYTZvF/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Britain  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4-YHtvjpH4H2tNkJCKEd1s/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]  *Roman History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5fdzzzgQf85DZUXJBhudpm/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Greek History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6pVpwLD7Xax1QMhs_B0QMF/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Egyptian History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7XMsTB65J6e9OkQyAXFnf7/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Spain  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6ZD1oip2wOk5O_V-Nf51MG/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *America  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6WvxSjTpTXuJAyE1SC9ANZ/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Russia  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7tNpr8_TYaorit57Ckq9hU/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]   *India  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4D7uHsQ9Ohm_Rls8HBZS9a/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]   *Chin  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7_7ASf9UAA1iJGnjiQfU9A/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Japan  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4EPwMUgRcqhBGbsYT9zKFK/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Turkey [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7cOUG1D4IuQuKvjA0jQDl5/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *South America  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6cBDD6TWFATb4wJBUL95Rd/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *France  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5i41MA-Cdcmi9oXrOhRbTG/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Australia  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7Rc2GtOF1UL1w01OygvdfE/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Biography  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7EjdYnGPuDg6etK8yk-UFN/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History - Movies  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6fWFVHqexlDboViFEIsGDg/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *World War I  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4Np0ckVc83HA-bC3ivxMRI/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *World War II [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5wjqK6bXCARgHM6pRneYKs/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Battles Through History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6o3cTgHXzGzOnFoLVQfvsH/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *All At Sea  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7UxxXcG2aVCPo_ItqZg-GB/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History - Series (3) [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7HUL4K5EYsOrsn92JnUh0Z/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History - Documentaries  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5GUmj1-v7VNWxDostRymeY/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *More History Documentaries [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4fprSWSah3KMbjvEjZU_5q/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]  *Sporting History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4YagWpnkcayYe7VwoiWv5V/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *MegaStructures  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6xXamnNsrmDXaZetKL9EXH/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *History of Music   [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6PQ1x_B5JN2MEuTZwH-Y3R/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  Music Makers - History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5jRx_eUEvTJKudxLOYZfXL/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]  British Military and History  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL57C1E76348A209F3/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]  *Prehistoric Life  [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC4ELQL-cyB4HcR5RR4y8jmI/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]   *Religion   [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC6pOots5SAORgX49LXO7Gfv/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]  *Mysteries at the ...   [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC5D2o3yzMATpE9_S2yP3vuB/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>

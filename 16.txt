@@ -1,0 +1,37 @@
+<dir><title>[COLOR aqua]בחצר של פופיק - כל העונות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLrXHa7yEIVEK4otul2GvgRduQrp_WHozQ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דן ומוזלי - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLunrwEAfSt0Q4EY9QvJLQ-qcmj26fFGps/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דן ומוזלי - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLth1a195qHsh2JB7l8Y-0B8RKTzKeLTzI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דן ומוזלי - עונה שלישית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6HjLShpTpzJfmYbrKtb2iq/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כל השירים של דן ומוזלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6eJ2M_tZhiFUKhh3-xTJ0_/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]החפרנים - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6PWe7kECdyz6ToCjcmSd6z/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]החפרנים - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5kggjXDJupMLWlxOtalMCe/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]החפרנים - עונה שלישית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj72a-r737sA5zGGmns56uLI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שרגא בישגדא - עונות: 1,2,3,4,5[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5KPYOntZkqg2Nwyqj2M1Lf/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שרגא בישגדא - עונה 6[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7yAMOPpd9RZpRbsWlb30CH/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שוסטר ושוסטר [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שוסטר ושוסטר עונה/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הורים וגורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5sp5nUKFuwuUddCXYjiH8F/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]תראו אותי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7jf8HAcgMERYrNyHQd6bgD/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - מתכונים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6O2gLT7i0Usc5LVRFF-wRT/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - שיאים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5LYIrCbBwfFHKVt4C6j8JH/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - מילים להחלפה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj638OcGN_S_ptSPC-LCcDAv/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - חמשירים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5GovUy3GXS1d2ELtDXyMWt&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - טריוויה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6mkx1NYiG9fy7fg_lhAM2g/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - גן חיות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4-tSuiYCRuXzbG7OVdXkTc/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - סופר בריין[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5-7O6pcFU-LDqz38ES7XcX/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - התעוררות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4plw_67m2RCi-YB1yGsQMJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - פתגם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5fEWuvyYU1Bw5xoksQFCHi/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - עצות ומשחקים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4-PoYife4j11pGZzbiqYH3/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - ערב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7nXkSHUkn2WR0fDJ8bX8Yc/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - היפ הופ[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5x1Mpals5RkvP1_SGCLeNO/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - דגלים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5wktrVq0M3RDGv4tBdMusP/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן הבית - מדען[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7ramMR-kDnOSbVvkFoswZk/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בית ספר לשפים מתחילים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7xLodgRH6lTHQysTUKG_Kr/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המטבחון - בישול לילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7mdtecfMQvlvxv2KHI-7BD&index=4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הולה הופ - לילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4pgezv6SHwl2b9JeHdXnHD/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]יוגה לילדים - סרטוני הדרכה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7wHwsiqOd00V9SBa8XrdNR&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רוצים לזוז - כושר ילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4-pONO5m1bGZbyuAaxVHK6&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פעילויות יצירה לילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4gEgcQ7xUnkEMhLJKVqEvE/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אלימות זה בידיים שלנו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL44A6264C94477E4C/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בשביל הסיפורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLF1F15FC862BDEB2F/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חטף פתח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL97498F46F690C8BC/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זאק וקוואק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1VPiBc5XLZwuAsIgYRGmreRxuzbC4TMu/?page=1</link><thumbnail>23.jpg</thumbnail></dir>

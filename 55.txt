@@ -1,0 +1,20 @@
+<dir><title>[COLOR aqua]לחיות - רפואת ילדים עם דר אופיר בר-און[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV89p2nUMt0NhA3x7_r2PSR8Z/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]זמן בריאות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GiqCc46RphIDB-z2v2gvcSjI/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi - הריון ולידה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDmBoNj0sL8fxBhvTwcXbh8q/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חיים בריא עם פרופ' רפי קרסו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV8_RBfntU95GGO06xZP7oPTX/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מחלקת נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV8_QjeLeLPoWDiwIthS-wCio/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]לחיות עם דר אסנת ולפיש[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV884L8qUfArGFJLUOBw7DZdn/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]המילון השלם לרפואת יופי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV8-ERQ71bqMoZDGC_j5RRUvD/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חמישה צעדים לחיוך המושלם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV882yCk_t1reNvyNaFR-HTgG/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ארון התרופות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV8_LUZgY4LeYHH3BX3vz1Bsw/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הרצאות עם דר עדיאל תל-אורן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipLl8pJriQw_G5pTY4yCwaX/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קורס הכנה ללידה-הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipPDl1tX2m9K6vy2mxUIJ1O/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קורס גמילה מחיתולים-הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioJgKYb-INFeeAVRzUQWheC/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קורס הרגלי והפרעות שינה - הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gir72RvSiYQRpp_UsJA_K7uu/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קורס עיסוי תינוקות - הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gir-8ToAGOlr7kEjxnEzJXck/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שאל את הרופא - ערוץ אינטרנטי לרפואה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLN7ydbvoUTMU41t1mRrkpEkXvXnK5a3ie&index=4/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]רעותה - הדרך הקלה ללדת - טיפים להריון ולידה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLtJVSAZ-prxoe7rT17G6KHTWeZKxUtUpA&index=3/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בלוג הריון בשלבים - אנוצ'קה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRASpuvjMTWafSsLquQKZxptsqKUCBxuM/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בלוג אחרי הלידה - אנוצ'קה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioRMDeVmPmSE9E2VcCd1KFF/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מציאות וסקירות מוצרים - אנוצ'קה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRASpuvjMTWb8wkRYVoDJaP87PPgOzOvX/?page=1</link><thumbnail>health.png</thumbnail></dir>
+<dir><title>[COLOR aqua]איך לחתל תינוק בחיתולי בד - אנוצ'קה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRASpuvjMTWalheVtnAjthpSd5gCKfjav/?page=1</link><thumbnail>health.png</thumbnail></dir>

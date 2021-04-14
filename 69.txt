@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+<dir><title>[COLOR aqua] ערוץ ישראלי הרישמי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCrspcaIzKI3_RwDo_OyEtyg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwHom-ZsNmJGLXTS_LobC-xZ649Y0pkQS8Djg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ערוץ הכיבוד [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCxiMh-xcmHrCqxeUIIhIijw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxUu4bgo1E--c44Abk4S8Hh2lLXEut6CxAkcg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ טדי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC3hxGnVuGITDPQW6N6AuepA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwlZG_4SaMpP4U7N6utoIhn8Lqj6YnJPQKB_w=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הופ [/COLOR]</title><link>plugin://plugin.video.youtube/user/hopchannel/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzy8RAG8E3PlLPjnoa_fTUiD2k4PoGUv9Desg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ קידס [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC_xBBPCq2pkEPEMCSy2zvkw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyUMg-Ziwc_V4bTC0NwF-la8oa31n4fuEIffw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ערוץ האוכל [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCN3K5RheRJekWOeVBH_81VQ/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwoZL_0Xp0KAQz4hvbKY03i5EB4GUrQDpCWaw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כוכבי הילדים [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCD-qkthtq-lkw3tZThJVeyw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwqCO6o62V5YrWzEpXl4PCDL0uJCkbFBwrX0g=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן חדשות - תאגיד השידור [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC_HwfTAcjBESKZRJq6BTCpg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyDk7TTLZYwtwMxP0P4DAgKeTf_Vpx7yT0_yA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ 20 [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCKEImtWikw9usC1pl_9m1nQ/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJz-cYE7oQ_fQQsdGozn0mHJlXfmceKZRaDF5g=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ 24 החדש  [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCmeoV53dPXPQe0gKwtkd37A/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzuL8nKwECjXiE5KUsyv1cpasoCUMlwu4tHZQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ חוק ומשפט [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC2g9B52uuAIiDJy_eI2klow/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxw0d_C2gL7M_50pTb3l0LT3EZHuB047Y3sqQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ החיים הטובים [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCMwS6gVUo01idry02RWPAUg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxk0V39fMmMNcfGyN8vd1PwyP5JTadZ2I78qQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הטיולים [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCydYLwPtXqWssYw1-EZoitA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyH-opDAXktUbsKfcdDtrkG3pYnOZWOdCOmnA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הבריאות [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCkM4IEaxdETbRls34uPrLIw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxMouf3Bf1Y-Hq8H_0uz2gNXbW4oHZyJ7Lb1w=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן רדיו [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCzr8GKryb0dfc8Y_Sb5B33w/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxAIKUN-8e7cYwRSp1vVNm3-VDONgBiE-HFdw=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן ארכיון [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCNeddAJjp9vxE4gcuQlc4WA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzxRZ4IptJtzo3UaRzy7LZzwVEkmLDD2y7yrA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ אי אקס פי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCuSfLQNRToAP3hTncar6zqg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJy68Pk2aUjHr2FEru4fKJwN2p7E81FX94wivA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ערוץ טין ניק [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCcgf7Bokf_WzQLFDwaBEmSw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwUK9l8NiNLRO7GP1h7qodjCDX3PUoDBbZxcA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ MTV ישראל [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCJ1AEGt3yFeBBe-fUb0B2vw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxNibBU-h8cFdbczgOaANKpK7ePuTUF6iL3mg=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ אחשלירוח [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC_16iKfb-m8Vel5KPwZsiMw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJya9yXot_L7inabhuRjgiW2yiMqoFygZAJINA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ דנה בננה [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCoyblSpowujYQCK7X4XCErA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyBgVc40Vp6OaQ0OHwb09gJy8gM01w9PaSYZQ=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ לירון איש האווירון [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCHLWMxo-FdAZzA7t-k2_Ulw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJw42iNCWRovFIOkQjxERsLOU3HFemP3_Gf-=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ קוגומולו [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC_gXE5AFgQdKSySDEJP4rkA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyWmLQfF2_ABccNdnd5ytLJIESYoRd9z6uFXQ=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ אלי אליהו [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCBHTyzSMKFW0wzG9k0SeQlw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwxa_aHP-DoSn_jsY3rGUuiNsOPXUel7uGadw=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הפיוט [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCarit_RqfzzejFzVt3mQqSw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyIdYf_m917IKlJUrdb0IjzF2I1hLypa2FANw=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ פורמולה [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCtMuJrQ1cbRneXtdfDYV3jg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwG069xBKQ2-0WjJZcvnONCt0jzIhY1f-fyLQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן דיגיטל [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCDJ6HHS5wkNaSREumdJRYhg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzolG9PEaG_xZG-Haq53WmLqC_Esq6t9E6LJw=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ מטבח בקלי קלות [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCYRjRbFiLOyKr89dryIDobw/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxMqM3IFjYeffkQfdQVOi8I5hdntsAbblvpsQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ ynet [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCpSSzrovhI4fA2PQNItecUA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AATXAJymFNk9f7wUNm0sPPNcaC2scRkBF_AndBT_oA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+
+
+
+
+
+
+
+<dir><title>[COLOR aqua]ערוץ גוניור [/COLOR]</title><link>plugin://plugin.video.youtube/user/ZbangChannel/playlists/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJywiBNXq2jHMk3rhq_pXw-7XM7Czm7CwCDF9Q=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ONE ערוץ [/COLOR]</title><link>plugin://plugin.video.youtube/user/one/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxfxohB018RCKob9XTfBLydtqU3XRTW33KDtg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ זום [/COLOR]</title><link>plugin://plugin.video.youtube/user/ZOOMTVISRAEL/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwW-5XjzKKtZ0VHinO82MJpyPGJIgwwoB2Bpw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ לולי [/COLOR]</title><link>plugin://plugin.video.youtube/user/lulitv1/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxw8ovKkpFWmy94KqKk8W5fjiBc3RUVl3Xl6g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ קופיקו [/COLOR]</title><link>plugin://plugin.video.youtube/user/KofikoChannel/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwjN6WiYmkryJNOiOR0D7046gFkVGE6Fxag2g=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הבידור [/COLOR]</title><link>plugin://plugin.video.youtube/user/HotBidurOnline/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyrD6_VNQ8iORe4UG7goH8lPLPWORTejtTmQg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ ישראל E!  [/COLOR]</title><link>plugin://plugin.video.youtube/user/EonlineIsraelCh/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyfriiXQh9spjnhEh-MLDN2cPbjF2JM3TZ1hg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כנסת [/COLOR]</title><link>plugin://plugin.video.youtube/user/99knesset/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzQHrqv0fWAfcBieUEVT6GIwYu9nShSF0gl2Q=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ 2000 [/COLOR]</title><link>plugin://plugin.video.youtube/user/radio2000Judaism/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJx1EscZPcWgE7Y6whFlTbEot_YzIoCDBeJhxg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ ניקלודיאון [/COLOR]</title><link>plugin://plugin.video.youtube/user/nickelodeonIsrael/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxYGoieIVzw8kg4xaxoi1GJo1rfB74rAvxz8g=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ פסטיגל [/COLOR]</title><link>plugin://plugin.video.youtube/user/myfestigal/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxqnnKOgFWp6BHUX6d0jjdoKKW9buonF_vjdQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן חינוכית [/COLOR]</title><link>plugin://plugin.video.youtube/user/23tv/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyllp5vvQ8el7FkQ1nUPbMB4_x8m99rnm50Zw=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן לומדים [/COLOR]</title><link>plugin://plugin.video.youtube/user/23bagrut/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyXKHzScru98Pvf628ouH8RCsDroDeknt6Ntw=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן שפות [/COLOR]</title><link>plugin://plugin.video.youtube/user/23language/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzxI3yY7NHlme2zWHdE_-kqIyEnNuIohGTHAQ=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הידברות(HD) [/COLOR]</title><link>plugin://plugin.video.youtube/user/hidabrooTeem/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJx2TVmEWRd5G8rOE3cim0yS6i1UKQsm3oOK6w=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הידברות [/COLOR]</title><link>plugin://plugin.video.youtube/user/Hidabroot1/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJx2TVmEWRd5G8rOE3cim0yS6i1UKQsm3oOK6w=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ בייבי [/COLOR]</title><link>plugin://plugin.video.youtube/user/BabyChannelIsrael/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwHy9XkIQY8jGlr9p1GKXWk7nEfo-IpUaWPoQ=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ דיסני [/COLOR]</title><link>plugin://plugin.video.youtube/user/DisneyChannelIS/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJz7Sggyta0L5om55NJkqF8k4_xQ6DLW3Y65RA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ דיסני גוניור [/COLOR]</title><link>plugin://plugin.video.youtube/user/disneyjuniorisrael/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxzgrEsvWKP9pYVyU-hQcxfqcHsLxi3bL6QQw=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ דיסני ישראל [/COLOR]</title><link>plugin://plugin.video.youtube/user/WaltDisneyIL/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJyM_lT0s5swX6PoRb5fp_38hwsTltx0XxAEfQ=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ גלגלצ [/COLOR]</title><link>plugin://plugin.video.youtube/user/glgltzchannel/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwD4GBoJpVS5A9xc6AkqzYkveq4e4cObtxH9Q=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ גלץ רדיו [/COLOR]</title><link>plugin://plugin.video.youtube/user/GLZradio/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzhAP-NAj6YfYty4pWn3H0j0nQ2FqdlINDJ_A=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כאן 11 [/COLOR]</title><link>plugin://plugin.video.youtube/user/MEDIAIBA/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJy0f5OnDznhjmR4wlPu5YzKsTEcnd8P_SBr0w=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ מיכל הקטנה [/COLOR]</title><link>plugin://plugin.video.youtube/user/rotmana/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJzda-DhOhNxgV0CLE-vDFHvpp3fUT4zcNe-4w=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ דוד חיים [/COLOR]</title><link>plugin://plugin.video.youtube/user/dodhaim/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJxRyMEKaw6VSgAy_028hHSgwT86VOnv1T-zLA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ יובל המבולבל [/COLOR]</title><link>plugin://plugin.video.youtube/user/7yuval/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJz7XiGOamgxBTyQefNZyCyQo-04uqHRbYWK1A=s48-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ הפרויקט של רביבו [/COLOR]</title><link>plugin://plugin.video.youtube/user/TheRevivoProject/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJw-ud4C4l7Zy5jvT1fZLvspKnyZ2fbFvKHQPA=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ פיקוד העורף [/COLOR]</title><link>plugin://plugin.video.youtube/user/pakar2008/</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwzbsR1WG9WTMFI2exDqHzwErNWCpmRMkD1Dg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+

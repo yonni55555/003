@@ -1,0 +1,37 @@
+<dir><title>[B][COLOR red]XGAMES[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=XGAMES/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]MONSTER ENERGY[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=MONSTER ENERGY/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]NITRO CIRCUS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=NITRO CIRCUS/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]GMBN[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=GMBN/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]WRC[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=WRC/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]MONSTER JAM[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=MONSTER JAM/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]RED BULL[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=RED BULL/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]THE HOONIGAN[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=THE HOONIGAN/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]FORD RACING[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=FORD RACING/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]FORMULA DRIFT[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=driftstream2010/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]IMSA[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=UnitedSportsCar/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]FREESTYLE MOTOCROSS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=NIGHToftheJUMPscom/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]ICE RACING[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ICE RACING/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]SNOCROSS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=SNOCROSS/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]RED BULL AIR RACE[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=RED BULL AIR RACE/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]MONSTER SUPERCROSS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=MONSTER SUPERCROSS/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]EXTREME SPORTS[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=XTremeVideo/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]WORLD SURF LEAGUE[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ASPWorldTour/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>
+
+<dir><title>[B][COLOR red]GOPRO RACING[/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=GoProMX/?page=1</link><thumbnail>http://extremesportsphilippines.com/wp-content/uploads/2017/09/cropped-extreme-sports-philippines-logo.png</thumbnail></dir>

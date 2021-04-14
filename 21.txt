@@ -1,0 +1,7 @@
+<dir><title>[COLOR aqua]ערוץ הילדים כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCOFp2_GttW3ljCuOc7r4l7g/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הכל טום[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLstSEvEmr9e8wuM076jsnSbM6HEdLjmfz/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ברחובות שלנו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLstSEvEmr9e-2ucQ38nu31Ms1qJPlVHcS/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שוברי גלים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLnzhIyrsnB5bRzOyHnZgx7yHzOBAXz79L/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]נדחפים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLstSEvEmr9e-7DxpPTuIbRjIbFCMcY7YZ/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]השמיניה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdHb9F0cRmPwtckIQ4LtKH_ZZOtTYoxC7/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בית ספר למוזיקה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLF583DE56321F34CF/?page=1</link><thumbnail>kidstv.png</thumbnail></dir>

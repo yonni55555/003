@@ -1,0 +1,51 @@
+<dir><title>[COLOR aqua]ארתור - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL-NIkmWdkQcJJe1RKjovNkMeEu648jbnI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארתור - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLJ9grwuaPAHpABj-ikIM6-FAEaYWY-TJL&index=42/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]רחוב סומסום[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6NZo0IGsGDez_WBnUBb-cQmoYeQZTDqt/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פרפר נחמד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7XTzORdSrWpgCfF1x7ZUeK/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פרפר נחמד - פרקים חדשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj48eZZD9HC7x-y8qFYP9cc3/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פרפר נחמד - מיטב השירים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj45OPEXI-ibfJy8ON0k1ARh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רגע עם דודלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLxvTjxfH2MJUXei9-6yCqx_r432-ZDiDh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מועדון החתול שמיל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipEz1Em790vHMgb0nRsz1bi/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בסוד העניינים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL99855780F1F601D0/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גברת פלפלת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAg97dIi1Ajgf6f35OblbwVhb6w4duxwY/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]נילס הולגרסון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLkIu9Av21tnFCbwKjYCa5_mb5iGKfy1QL/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הלב-מרקו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwXEsK85wc0OGtVFt-5kEiQN6s3Qlu62a/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עליסה בארץ הפלאות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwXEsK85wc0MhPZOPkLqi4dsACdBg3hE8/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היה היה (האדם)[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL7s3QxO6wm48st6XALJqSP1iQHbd4ghGW/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היה היה (החיים)[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2mji1CY01QQrP_3JrC8U1uO7nS1-WlzD/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חוש חש הבלש-אנגלית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLcnOogeoQ4TrfP9mO57AQY543KTLaTl8N/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+ 
+<dir><title>[COLOR aqua]אגדות אחים גרים - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLYlrzbISBfkuyDzUwktkKJ8ecy-RZ3AHI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אגדות אחים גרים - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLYlrzbISBfktPBUHxCckXbRxD6KkCapzu/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טוב טוב הגמד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL3mToa_H_f8JYsozlj7y9VdRzRaAfJZ4i/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]הקוסם מארץ עוץ[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLIcHuikEGUEYNvMoOpK2L44skNC8QYGSJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סנדוקאן [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סנדוקאן/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שאלתיאל קוואק [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שאלתיאל קוואק&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שאלתיאל קוואק - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLZIgNCxEpVtGDv8g4o6E9BSGlT4ekMi12/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]המומינים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q= המומינים&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]פינוקיו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwXEsK85wc0OQV1DgaY4zC0_CiB8ZD5j9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טאו-טאו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwXEsK85wc0OMTKgRKShDXO73wEv4B-c9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הדרדסים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLig2mjpwQBZkgIgp6HwDRJjRkRNdnFV-l/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QhDzYbbniDNwSbXUM_p6N3f/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QgEdLPHhrhKtxElvYVrseAQ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו - עונה שלישית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMq11W2eqQKQ2bcTcccLG_simyR0SXZP-/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו - עונה רביעית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLchPUqk2BZjE4b0MbRBYhctCWZn-YtI8B/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בארץ הקטקטים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL_tnw-Uo_Oo6gcJ0M1jx0gPtc_weGF1Ke/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+ 
+<dir><title>[COLOR aqua]בולי איש השלג[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gip5kGOgoyCfQefdluYQHNXU/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המחסן של כאילו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLrrGhNe9FN6tYFur9XejlsKCib684_w2E/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פיטר פן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsGURLmGZrQvXIxhnyxqMDeQHw80TAdt8/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שוטרים וגנבים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLp2vc3iwGlwRfC_bnuAHA1FuaxCKyDtHP/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]קוסמים קטנים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipQWO9JCV8jw5Oh537ppA4L/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היי בינבה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKhumFgo_zE6hiSHG1IniVbGcJ1rlBLvG/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוטובוס הקסמים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אוטובוס הקסמים &search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הופה היי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giqp7xe6q_a6bXf6I6ANfrKI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פופאי הסרט ומדודבבים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פופאי הסרט המלא מדובב&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הופה היי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giqp7xe6q_a6bXf6I6ANfrKI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>

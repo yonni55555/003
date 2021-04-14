@@ -1,0 +1,31 @@
+<dir><title>[COLOR aqua]אוצרות נוסטלגיה בשחור לבן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6mH4KRWm7IE_J1geTcVmX9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארכיון רשות השידור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdVEUsFtRJCoCXl4Yx0jp-3-&index=4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שידורים לרצח רבין[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4QjlggCSzpoZ5VxOFK_CrP/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חנה מרון 1923-2014[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj48SyN77XSbSf53_-h7mWp7&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספי ריבלין 1947-2013[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7I5Vwy8ZqoY0WpkxnUkabM/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אסי דיין 1945-2014[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6nOCrX0rG6VXav8pUREFlF/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אריק איינשטין 1939-2013 [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4LFBKNwCk7Xi1vpkqIkvff/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+ 
+<dir><title>[COLOR aqua]ספיישל חג חנוכה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6iSrDhUtCLTLeLhq9Bnn3O/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל חג פורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4KOG8oJrs70F_u8bAVH3lW/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל חג טו בשבט[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6Ob3E922l8DoM8U-ay6rwt/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל חג פסח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6wyHVgtg0ebuwqYqhh2D_j/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חגי תשרי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4LOZbA2VzFPUTkheKOlmaE/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]תוכניות מיוחדות ליום הזיכרון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4eWriUKWAPnNODq8QR_UlB/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סיכומי ששת הימים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6h-wbbbnUI-TkwyirGxbcr/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]יום השואה בחינוכית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6zllZWhjkRCv95Q9LPhRZ2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שמיכת טלאים - פרוייקט ליום הזיכרון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj40WOr1ylSGNITWbH7r6pAF&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אולפן פתוח-מלחמת המפרץ[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj406VKwHca6NeZc8RLQe-2U/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קולה של אמא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4QX3eKDcyn_GngNv14t6vs/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היסטוריה בארץ ישראל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL4654A73C7195CDE5/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]נוסטלגיה באנגלית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLD1AA6CFEB351552E/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט - משחקים מלאים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAFF0CE2A6D305335/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל תוכניות לילדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLEEADE8D8F08C1CF8/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קטעי קאלט נוסטלגיים - חלק א[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL865DC5C74264BF11/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קטעי קאלט נוסטלגיים - חלק ב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL78D26C6B20B90459/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל אקטואליה ותרבות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL41C878044EB8B4DF/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]אלי יצפאן - DVD CD.3 [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=KGam4dPAF0w/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הגשש החיוור - [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הגשש החיוור מערכונים מלאים&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>

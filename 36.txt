@@ -1,0 +1,4 @@
+<dir><title>[COLOR aqua]קרבות מלאים WWE [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q= WWE&search_type=playlist</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קרבות UFC [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q= UFC&search_type=playlist</link><thumbnail>Sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]פיתוח גוף[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLYMK_Nbs-rsvOuko4Hqv4Uw6NF2Q3-eCP/?page=1</link><thumbnail>https://lh3.googleusercontent.com/QT50L302rYQQkxsjNbw-RZMAnIExQVrfdqy8UazD1U1QqlIr6NR3pR83BJUpIjS4CME</thumbnail></dir>
+<dir><title>[COLOR aqua]טניס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1bLcCen2CCdPEMJ8B5S6Z9RzLjMnFNvT/?page=1</link><thumbnail>Sports.png</thumbnail></dir>

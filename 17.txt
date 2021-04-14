@@ -1,0 +1,5 @@
+<dir><title>[COLOR aqua]קופיקו עונה 1[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QhDzYbbniDNwSbXUM_p6N3f/?page=1</link><thumbnail>30030.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו עונה 2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QgEdLPHhrhKtxElvYVrseAQ/?page=1</link><thumbnail>30030.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קופיקו עונה 3[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QhNGUffSgu8_5dP3lnOGZTx/?page=1</link><thumbnail>30030.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רוי בוי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0Qg8pxiEld0Fg3K2Bd8gTKw5/?page=1</link><thumbnail>30030.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]משטרת האגדות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR7DTcU2p0QiaEmc56lGHMpxW4ladE93X/?page=1</link><thumbnail>30030.jpg</thumbnail></dir>

@@ -1,0 +1,13 @@
+<dir><title>[COLOR aqua]ערוץ החיים הטובים [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCMwS6gVUo01idry02RWPAUg/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>     
+<dir><title>[COLOR aqua]מכוני ספא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLCXKcf_9F-9ILiz6gapk-g6eRVczIinXn/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]לייף סטייל, יופי ואופנה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLBQgA3Kndk7eYrJwHej6Swx-nryBmN52V/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מייבי בייבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLK_DOFD1-caZyw7DH1PeghrCeAa0RXKGl/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טיפים ליוגה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPJTnhnYa-pOndAB5TU2A8qEpUguaxj5U/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]פורבס לייף סטייל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL40DAF9063E60BD47/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]החיים על פי נועה תשבי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLfih4ifv3adEVX8ISbaVBY75hgh6FS7zP/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טיפים לטיפוח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLCR91DssNhp74MGMMJAbb7l2s2nm_5yvG/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מדריך איפור מקצועי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLWSwSEhBdIBKsVqaZn9PwebkLguJX3vSM/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]דיאטה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLYMK_Nbs-rsupx1SLcgZFXnfy7HZ3KRoN/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]טיפים וטריקים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKUX44R3MbuR3sX61i9QiwnOBr61tEMc_/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מהפכת הלייף סטייל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLE0ZXwRBc5iNxdziR3nGtfZoi11p2y0hO/?page=1</link><thumbnail>lifestyle.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ווינטג לייף סטייל[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCAUgzUb_ZUlGRCPYoPAIlsw/playlists/</link><thumbnail>lifestyle.png</thumbnail></dir>

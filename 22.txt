@@ -1,0 +1,16 @@
+<dir><title>[COLOR aqua]HOTVODyoung כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC0GgioZ1XWa9xNJJH66h7rg/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סוסי פרא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLCkWDoe9rdRvkeF3UD259Wq/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]גאליס [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=גאליס כל העונות פרקים מלאים&search_type=playlist</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מועדון החנונים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מועדון החנונים&search_type=playlist</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הקלמרים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הקלמרים&search_type=playlist</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הפיגמות [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הפיגמות&search_type=playlist</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שכונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLAeiTiDZ3oHDtPmD54vi2vB/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]גיא ביער החיות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLD1JcHPAtU_KFQ-53xOZ9YP/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]החוף של רינת - 2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLB2k8pelTCjEcf9vtOdJPMX/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]עמרי והפיה יעלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLBPUYYOTxv3y4J4jadrvBDM/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]חיפזון וזהירון [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLCBKso-lZI46QeMOajbJo1K/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]החוף של רינת - עונה 1[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL419YR22ubLDmN4nWRYdtXsPEqfUcwXTu/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]רוני וקשיו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFC30D9236B6C1D89/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]הגרוטיאדה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLD410CE40090B6F46/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>	
+<dir><title>[COLOR aqua]מותק של יומולדת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL19F7B03ACE78D040/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מלכת קסמים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL252279467C3A6572/?page=1</link><thumbnail>HOTVOD.png</thumbnail></dir>2

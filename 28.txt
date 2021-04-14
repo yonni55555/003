@@ -1,0 +1,13 @@
+<dir><title>[COLOR aqua]הצחוקייה 1-4: פרקים מלאים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StSnZGTUoMyIjbFdAACRCxKV/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]צמפיונסיק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StRAe0OQOvWUBejgQVAjrucA/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גן חיות 1 + 2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StTP1kioc4cGBUkdPrktt8Pz/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גן חיות עונה 3[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StQfg1CrmkR5ChUnu6q1X5Hj/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]משפחת כספי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StRNroygQpznlYXzyvob8aDJ/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שכונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StQ1q3po2cwh48H6LOSZbjaM/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הצחוקייה סופרסטארז[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StQ5w1484WOSYjwFfhiQsnPy/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הצחוקייה - קצרצרים, עונות 3-1[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StTBH8qBwHzw12DHe7Zn78Qx/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שכונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StR0o1N7zfbpobVVwev0sx91/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]יפניק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StS-YtE8BYNUpLIxKrGOBAe6/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סופר שטותניק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StRk-DsmuAL0ptZPJ9ATkguV/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חבורת הספסל האחורי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StTLZK9Zicyj4qfyiVh0DbkN/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קיץ דיגיטלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuQCYUv97StT2i_JrYVDy2cVTW1Gtmp9s/?page=1</link><thumbnail>30032.jpg</thumbnail></dir>

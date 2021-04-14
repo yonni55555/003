@@ -1,0 +1,7 @@
+<dir><title>[COLOR aqua]הופ כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UClZXqxeY540_Epab3WDHFGw/?page=1</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סמי הכבאי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סמי הכבאי&search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]פיטר הארנב [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פיטר הארנב&search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]דני שובבני [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=דני שובבני&search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סבא טוביה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סבא טוביה&search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מר עגבניה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מר עגבניה פרקים מלאים &search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בוב הבנאי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=בוב הבנאי&search_type=playlist</link><thumbnail>hop.png</thumbnail></dir>

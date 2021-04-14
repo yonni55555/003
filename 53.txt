@@ -1,0 +1,30 @@
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | איפור לפורים ותחפושות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDn2pbbDjKxmozigY_xSznd7/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | המלצות למוצרי איפור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDk96Zi8ibHerZ7pkQD3_bsr/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | הדרכות איפור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDlro7O-7ehHR1zvBGybh1gq/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | איך להעלים פיגמנטציה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDmHeuxiQskYVRnmvQmBsYhi/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | מה עושים עם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDncTAQrC9W990a0dBtUFVyH/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | טיפים לאיפור וטיפוח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDkL26eSMDUXFdr3_zZ1HrPM/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | מחדשת לכם בטיפים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDnupay8fnrOSKvXXnbB-SOW/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | מסכות לפנים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDnDeKTJ_pSx38KgMgISFJe_/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | קניות מומלצות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDkP2UQ5QDu8DdWZELEt_SkQ/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi |  הדרכות לקים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDl98smEUzA8FT9Vq4QSk9zQ/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Ashley Waxman Bakshi | הדרכות שיער[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFXDHq8EOmDla8l08ACyq9HHUbspDUW4f/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | איפור לפורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ1_qzjLQXdwDAZ64G2FC9G6/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | הבסיס באיפור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ0235ria9ERbja6KYJjfFsI/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | טיפים לאיפור נכון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ2tz5hzygNN_V534AueUrr9/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | איך להתאפר בטבעיות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ16Fo-07RdO1tWI52QV0EPU/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | איך להתאפר כמו מפורסם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ2yOt-tN_39_RLx2-jTNvrk/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ana Proviz | איפור מעושן ואפקטים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ3dIAlWlmEuGbhmRDZMkTfF/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | מניקור פדיקור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ09_liYs7AF1SkTWifaYvAI/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | יאנה&יאנה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ36DDv8xQVtEvh5vZys6eYV/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | איך להשתמש באייליינר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ2wfo7JsLyUcsHN4iAA4FrL/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Yana Proviz | העבודות של יאנה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLqrO4mc6RUZ31heO5EEuPhJnukmCXrbhz/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Jessica Braun | Dupe Videos[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals0Mq60Vh45rHJ-O5CO77aZv/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Jessica Braun | The JAMMY Awards[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals1SsNYtgViwCaVkis6blrPA/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Jessica Braun | Lip Swatch Videos[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals3nwticn-2TdWye7NkXXPyX/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]9Jessica Braun | Empties[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals1TmxNY8UqVj3Hflpl_jqtH/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Jessica Braun | ELF Videos[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals0QMJFzdKG2h23bZqGytzJ1&index=4/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Jessica Braun | Declutter Series[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLzVhGARzals1BfbV-QmAcxi4sBwN1B5gI/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Kathleen Lights | טיפים נכונים לאיפור יפה וזוהר
+[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioXKgbaifrEfR-MFOMgibc2/?page=1</link><thumbnail>makeup.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Tom Bar Amar | טיפים מדריכים וכל מה שקשור ליופי שלכן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GioxI08Rv1TfklGBElDQAN43/?page=1</link><thumbnail>makeup.png</thumbnail></dir>2

@@ -1,0 +1,9 @@
+<dir><title>[COLOR aqua]דיסני גוניור כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC2FtQO6HiTYejqkbqrowGSw&search_type=playlist</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארמון החיות [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ארמון החיות&search_type=playlist</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הנסיכה סופיה הראשונה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הנסיכה סופיה הראשונה&search_type=playlist</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הסרטים המצויירים של מיני [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLCcisG7DtTgtpi5Hbb8ZJuOvbGLVJVjf5/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספיישל להיות פיראט[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLVwL64lSxWWzCmfvd65mBVKGX0VMFIEM7/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]התעמלות עם מיקי מאוס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLVwL64lSxWWwLsl52oUSphP6zSbbvQu_h/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דוק רופאת צעצועים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLVwL64lSxWWyRD2CIOc5qkXUuSWSsyuRh/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הרגעים הגדולים של סטאר [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRKLm5GvuZVIv7NoJvoBrlAlOYaatpzqM/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היורשים - בית ספר של סודות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRKLm5GvuZVJq1moobQvXZUHMM943qAWP/?page=1</link><thumbnail>dsjr.jpg</thumbnail></dir>

@@ -1,0 +1,130 @@
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffe0cee][B][COLOR aqua]80s & 90s Classic TV show intros[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRRYo_lypDLQRApKo-g2-GYuQXGwB8wzL/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3e38a4][B][COLOR aqua]The Addams Family[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwwhtOnMyjuxQy81h7uJMCdsR-bS-uVaD/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff623492][B][COLOR aqua]Adult Wednesday Adams[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL0XAjui-xK6XE4PRT64WAthU6j1NmrOqU/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff586362][B][COLOR aqua]Classic Mr Bean[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUEwIUtFBhaI2L2PuKv0KL2g/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe51acf][B][COLOR aqua]WesternTvSeries[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUI3jCHxTrdgLs2BNIfSlfSQ/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffca4c94][B][COLOR aqua]All things Laurel and Hardy[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUQ1Ix_zcD2Fa8n-bEyEEVXA/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffacec7][B][COLOR aqua]Sanford and Son[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLghomqhgT3Ql2r34G1Kw7nUuEMmEUH-7q/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffdebcf8][B][COLOR aqua]The Others (Complete Series)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fJmjt84zZhVlt_nTOeWQM8FCOEg4V4s/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7e725d][B][COLOR aqua]Ghost Story-Circle of Fear (TV)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeagipoZmyflMOu9SoIBHmjcgj2kQjEjF/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff78dd1][B][COLOR aqua]Gimmea Break[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUDv7pmSdRYBwT69y-4c1Pnw/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd4883c][B][COLOR aqua]The Fall Guy[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUiWAQA4Mza-QFdLJhaEycJA/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff586b90][B][COLOR aqua]Starman[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/UUCbNAYyyggXCgDcqRZndLzA/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffad587e][B][COLOR aqua]The Lucy Show LUCILLE BALL 30 Full Episodes[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TXCZbl3w_RYofN_XMCRDtdy/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff71b612][B][COLOR aqua]Shado UFO TV Series[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLdwL8EUvbQFy2xuckcawapK8023drPQI/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff502b6c][B][COLOR aqua]Gigantor Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFMQCkXuUMjNzwRWPoKeiPc/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd9a9b4][B][COLOR aqua]The Swiss Family Robinson Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoEdk0S4qZvwlqfQk9s1g-4h/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0a77f9][B][COLOR aqua]Blakes 7[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCLIv-DVrjhZJqb7hvTVgL_w/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff4c0627][B][COLOR aqua]Nowhere Man (Complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeagipoZmyfmeKpbCdBkjSXczL3gioTIL/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe34175][B][COLOR aqua]Timecop (Complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fJmjt84zZhp5eGS7ceZhYmyvyT8VtP0/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffc558cf][B][COLOR aqua]THE COMEDY SHOP - Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFGFAUDe1EnGW44yM_ewrt4/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff61e6f4][B][COLOR aqua]THE COMEDY SHOP - Season 2[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFZ3ORIfJV8xFzORsW3mclA/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd334da][B][COLOR aqua]Land of the Lost (Complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fJmjt84zZhV4hZGR_VgBZxl2fAPA9Ed/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff837877][B][COLOR aqua]The Invisible Man 1975 (Complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeagipoZmyfm1K3A2qNxleEpXJ5gUKTvk/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff82633e][B][COLOR aqua]The Invisible Man 1984 (complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLWBUT4nrnPf5CVi3zYyGLhkoxIR7gPubu/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffbd98f1][B][COLOR aqua]It Takes a Thief Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLlTsHN-xkgl3RFB_CrnpAUlUUJm_Cy9MB/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff997f9d][B][COLOR aqua]It Takes a Thief Season 2[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLlTsHN-xkgl243QxcnGEWTtFuaVCtp8Rp/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb62d12][B][COLOR aqua]It Takes a Thief Season 3[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLlTsHN-xkgl2pPgWXYMImAj4rS18id7nG/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>"[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffa22408][B][COLOR aqua]Flash Gordon (TV)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdwYgKHNxoDuH9wlEuEFvUQUEdkZ-tkn-/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1ff626][B][COLOR aqua]The Twilight Zone 2002 (TV)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLbxdxEWxTqX81L3NnAU3nEwvPhkT7FuRm/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd15253][B][COLOR aqua]The Tribe (260 episodes Complete)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fJmjt84zZiTh5wcoWV7RkUyzmU5swBL/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff426175][B][COLOR aqua]Highlander (TV)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fJmjt84zZgL4pcnB8DiV6cIZ9Cs8BVW/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe3c093][B][COLOR aqua]Taken (Mini Series)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLgPqH4b_oLyrCExWaUbnLl6CI8cae82ZQ/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff026767][B][COLOR aqua]I Spy-Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFvQKYAikolHyKt9oi8MGuT/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffccfe4e][B][COLOR aqua]I Spy-Season 2[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoEN39ge-JguunSJecncCK3P/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3706c3][B][COLOR aqua]I Spy-Season 3[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoEZiHt-asBSUl34TMYLO4HC/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff598ae6][B][COLOR aqua]My Favorite Martian - Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoG0gEYp_ecXWBB5SFm0ZjE-/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff727e58][B][COLOR aqua]My Favorite Martian - Season 2[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoH5w_4W4Y50GhlZftrn9-2Q/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffcff498][B][COLOR aqua]My Favorite Martian - Season 3[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoGQXeR-IdwMW4iWXC__RuHW/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe6f3ee][B][COLOR aqua]The Rifleman Season 1[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoE9alavdl37U-IHNJ4AyGE3/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff4c45f6][B][COLOR aqua]The Rifleman Season 2[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoEH0GGLqVVjeKaqkTLpY3QQ/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1375eb][B][COLOR aqua]The Rifleman Season 3[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFeZ7bJvniB-D8z-x88cQWe/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff11b491][B][COLOR aqua]The Rifleman Season 4[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoFuuWF3AUkfrpu-jmdvK1zD/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff31b68c][B][COLOR aqua]The Rifleman Season 5[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6UfctxfSOoGpAPi9a-0xyUZF_Pr88KVq/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff79eac8][B][COLOR aqua]Captain Power & The Soldiers Of The Future[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL632DEFF5485C77A6/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0ff9a2][B][COLOR aqua]Thunderbirds[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLK7mXBqD4M5goOUVhnt8yQTgMeUMsdOKh/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffb91e71][B][COLOR aqua]Captain America (1944) - Full Classic Series[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLnuZTQf1M64ydgAOg1hbyjabfTTqABiZJ/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1373f0][B][COLOR aqua]Voyage to the Bottom of the Sea[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDbpGbv-wloF1WbRswE67MVemXtZS06Yy/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff554648][B][COLOR aqua]The Beverly Hillbillies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1V2SSERycssvC_FFdtBA16Qhiityw_ii/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe0e2fe][B][COLOR aqua]Whirlybirds[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvXjmh1QmMsH1AQtIihO-Whh/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff55bbe6][B][COLOR aqua]Highway Patrol[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvWub0Kw0sfqGgpBXMevYaiI/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffda9039][B][COLOR aqua]Edmond OBrien: Johnny Midnight[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvW36b3-Vc22LrD_kLMNjB-Z/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff18b644][B][COLOR aqua]The Invisible Man[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvWNy5Z7BvyifFLM2XeITgl0/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0c94fb][B][COLOR aqua]BRIAN DONLEVY: Dangerous Assignment COMPLETE TV series[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TUumnyP9bMaYcEz-ftSyOjQ/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffe7849f][B][COLOR aqua]One Step Beyond: Complete Season (1)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR9KUynF_6Fr2duXEUNiab8K8FWaNkzF9/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff26442c][B][COLOR aqua]One Step BeyondOne: Complete Season (2)[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR9KUynF_6FrmR90dRNIGI-rfNaL-1ZrE/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff446bc5][B][COLOR aqua]The Abbott and Costello Show[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvVZRTGNi9wFPrKokoHpOxee/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff18403][B][COLOR aqua]BETTY WHITE: Life with Elizabeth[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TVZPk6F53tc1SS2U6JPav34/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffd5d63d][B][COLOR aqua]CHARLES BRONSON: MAN WITH A CAMERA[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TXd7QFw5NeggEB0bbHpqxMP/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff29067c][B][COLOR aqua]RICHARD BOONE: Medic[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TVRnTnRJKZ9cUSZA6YRDuQa/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff1882dd][B][COLOR aqua]Combat![/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvUDQKneLZcPvrm3w3wOcps1/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffc3f634][B][COLOR aqua]Rat Patrol[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLehwzgbsMqvXVDiH62UyEAyQYMQ7qfnR-/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff32603f][B][COLOR aqua]Petticoat Junction[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TW2LG21_pjI3ey-io5UF79J/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffdde9db][B][COLOR aqua]DUSTYS TRAIL[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TVJkqn6ze4ktkzdFf9elYOa/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff998606][B][COLOR aqua]THE CISCO KID[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TXOK8GD6u1rVnVWpNP_4K6V/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffa499af][B][COLOR aqua]The Adventures of Ozzie & Harriet[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLmHgXUJMN1TVBtNLHmnCSdEZJtIl526B_/?page=1</link><thumbnail>tv-shows.png</thumbnail></dir>

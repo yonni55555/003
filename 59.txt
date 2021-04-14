@@ -1,0 +1,119 @@
+<dir><title>[COLOR aqua]Alien & UFO Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLZT-q12T7cjjUC5BE6cZ77uD_cwCfpfyU/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Alien & UFO Documentaries (2)[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL3OtDBB37OBjqge_LtrPprNgbeJmm-dsM/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]American Experience Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLUxyHtHaofGb6gA9-btv4LIIqDjeahOPe/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]American History Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLF1C3AE92622C2780/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]BBC Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDVZNJR18KqBfusnr5G4D6Ft6ge-lJhWK/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]BBC History Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2XMHriRjzy0-VocW_OoTdVA9o_GuJcE0/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]BBC Music Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOvXkB5eFXm7lfggMnEO1TWzENy-0YhVP/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Biography/History Channel Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLvowN7rzMGUFOMOiA4hqKMDWnb1_cagKx/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Boxing Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLtCY5b9Q0auBpDAYD-BSvQzq4CbABhLXQ/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]British Army Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLaJSCDqmHPo4xrGMvRiIrfp2MIFVTlhGk/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]British Military & History Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL57C1E76348A209F3/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Conspiracy theory & Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLQy6xVkiQuV77b7P116vfxLxf0D4V2nOK/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Crime & Story Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLjYTdfYGUqXWdPPBppWuk3hOpXiLwZXoM/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Cycling Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL7cCA7f-KRxN_w78iKFxC9DyPHfw3t_5-/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL991qh8jWvSdM-kydtQh5X9-nUXUgu8b_/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Drink & Drugs Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6fAGtJIQh9urgOktKP3umtMXwBckN6TU/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]FBI Files[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL5q8VRGX_yLL_CruUIU-ZE3d0L7JJH-ee/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Football Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPG-HjhZmZfN6t7pn0KkhEC6mQOlP1ZKo/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]History,Military & War Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLa1-vLrslkqlMbVRAw5QIw7UknJ0fTcnz/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]History/Archaeology Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLwJVQxW2IAat6kGzPQy5xjRcXbxwhEcar/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Long History Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLZctZ0yYTg4W4dvyFca9Yu6RK9inYHLtp/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Military & War Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLEE2489E06F15D873/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Mobsters Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL5q8VRGX_yLL9M8v6PWXFjNJYIA5771Lr/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]My Crime Stories Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLYsohyI13lcQPTEcBz8YxvDWtSsxRgstD/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]NBA Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL394rozWCpDdV9yacdy4oAZ3qiXYf4dT5/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]NFL Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLnzcLTdWZeqKLI_cW4tHYzVYalsTFMgrW/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]National Geographic Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLlHanBMNk-DLSFPn4hK24KzwdKHA5H934/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Nature Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL5o3ll3G4acxgDMSO7JXvDsosQ-UDPL6n/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Northern Ireland Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLuBt-Sf8Ynx2BuLQhjx5v8-svqIf_1phj/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]PDS Nova Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLlHanBMNk-DKQzkktkFKGvJR_9gSRDhBr/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Paranormal Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFA4FDF0842092039/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Rare UFO Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLajqNV0-qkKeZtNvbNCBzoDrZ5NCmD7QK/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Real Crime Uk Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL152bjytsMC7X2jHHtOAKGBeq1bvx87aE/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Scotland Yard Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLECCBBA5FD7BD6165/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Serial Killers Global Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLvQ9zpL9arDylTPwOVygvegBCGqOltidW/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ShowTime Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL-7ED26K3EdTHbydPw8xTVF93n0XQ7sRf/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Sports Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLT0ii4_I8EN50KMtVsAjB5dLRbyLT6xZD/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Spy Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKh8r07IjZ4riZvDv0m_DfDKeeu5EuRfE/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Spy Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLKh8r07IjZ4riZvDv0m_DfDKeeu5EuRfE/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]The Ripperologists Jack the Ripper Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLK7KBLQJFmZUrjhaEUcIeGkWwWSAf1T9I/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]The best of Ancient Aliens & UFO Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTjuA49CCFCDyfD76teqnPzB_EH_WKH2J/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Time Watch Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6aq1PBlrtR7rgc03uveAtgMWtTArxXSJ/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Unsealed Alien Files Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLnr-o7LcbD14eZPSB715kNsYOEQ6GmihT/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]VIETNAM War Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLDx09dtcE4z5qSZ1oDkKQ3qyBULjlME3O/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Very Interesting Documentary[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLhGe8UxzOI2PFve_KHoYxCKgTrT4IJ4PS/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+
+
+<dir><title>[COLOR aqua]Wild Series Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6aq1PBlrtR5D4xslD4VBos7zk0GSTuBb/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]Witness Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2CCCAC08769C2FE9/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]World History Documentaries[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLR3SowCQah02FYPAFXOFH2Vy1qcAmIJ_A/?page=1</link><thumbnail>https://i.imgur.com/OcIWNOl.jpg</thumbnail></dir>

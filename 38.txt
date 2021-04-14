@@ -1,0 +1,13 @@
+<dir><title>[COLOR aqua]מנהלת הליגות לכדורגל [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מנהלת הליגות לכדורגל ipfl&search_type=playlist</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ישראלי [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=תקצירי ספורט באיכות גבוהה&search_type=playlist</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ליגת העל 2019/20 תקצירים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ליגת העל 2019/20 תקצירים&search_type=playlist</link><thumbnail>30034.jpg</thumbnail></dir>	       	
+<dir><title>[COLOR aqua]ליגת העל 2019/20  משחקים מלאים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ליגת העל 2019/20  משחקים מלאים&search_type=playlist</link><thumbnail>30034.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ליגת העל 2019-20 - משחקים מלאים ספורט 1 [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ליגת העל 2019-20 - משחקים מלאים ספורט 1 &search_type=playlist</link><thumbnail>30034.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גביע המדינה 2015-16 - משחקים מלאים ספורט 1[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D1AFZcpPwWw6FbvFVAXTSLD/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]ספורט ONE מכבי חיפה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D2yNMxtKOmc1leheIrXgbfp/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ONE מכבי תל אביב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D1I2RLIuqCgn4ivpV5wqPjO/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ONE הפועל תל אביב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D0C5KPwVlurnJP4KkjIkgMo/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ONE ביתר ירושלים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D3b16u3378Sx6xOlGzc5ZDj/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ONE מכבי נתניה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D1mWDpHPOD8qts2GoSin1xU/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט ONE מכבי פתח תקווה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLTu-AmawV8D1usI_4UHXslajV6oBm3ibo/?page=1</link><thumbnail>Soccer.jpg</thumbnail></dir>

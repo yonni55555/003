@@ -1,0 +1,71 @@
+<dir><title>[COLOR aqua]שבט צוצלת [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=שבט צוצלת&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]אחשלירוח [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אחשלירוח&search_type=playlist</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]23 דקות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7QDpAtcFy1_-Zf-OUgBFQ1/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אחלה יום[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8AE904EF143BA340/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוכל למחשבה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gio3eCzoFAsGLz83HT40QUCZ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אומרים שהיה פה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7BNSE3BoiW-hALYC_dATQn/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אם לא עכשיו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4TtM4X_skUjtbZPNn8Xttj/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארוחות שעשו היסטוריה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5eW1B7rkqAoU1GmfFHFwWv/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הידעת?[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6L43UJSC2LfBcxxZYx4Wj4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הבימה מערכה שניה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5R3jFtctL01mBjcjO17hvJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]העפרון הכי מחודד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7tzWxrWGNdyK-gbs1d8qf8/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ואקום - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6ij1PPVnvJG9mliQNrDT_h/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ואקום - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4EcYSIWN-zM8vmmFktDXF5/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חדר 101 [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חדר 101/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חוצה ישראל - עם קובי מידן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL127E7734AE7476DD/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חותם אישי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5klM0RPo1k7J5iDS6otYG8/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חיות במה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7iPkOqCZpCQNtf7W6kqQ6x/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חלם בהלם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj63PcR3r2VmhG95qmPzXouc/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כאן ואומן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4WTj-7ffYUJpt2FDvS5ivo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כנסת נכבדה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4wTsnXOgf0OBcoaiO7kQfg/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]להיות מדען עם פרופסור דן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4oR5aIC0Ru5JZA1a1TT-RN/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה זה מוזה - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4F8EkY07BfV1KhdjmtjX0P/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה זה מוזה - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5KKuKBn54FgrmNvXKZ6BYJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עולם הבובות של גלי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5y9-iDpGCcw1Rf1YhMl85m/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פסקול ישראלי שירים בודדים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4BhoUBgEoRl0LP94e1ivAo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שטרודל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5Hw7X0PY-mLgVYFFm0TK5b/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אדריכלות ישראלית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6Ajq6brj2sbLQ0AEmD10L_&index=9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שיחת נפש[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4hWCdqRdSppJk2akOip3Q4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]תיק תקשורת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL0AFb_m5tVQI7SBCpLA9VzVX9EXYAr2WQ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חדש בעיניים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5qPsqwLPkxs_-lkIJZfg0H/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המושכים בחוטים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6s0QtcgOpIwKewkEeSN77e/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הכל פתוח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4LovalcoZLy7TPJ8oAL0k6/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הכל אנשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7TAvhkV8c9UnnMHUpQy-Bx/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות מהעבר - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj76Eh3jZ6V5lRvuAp6lHU1e/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות מהעבר - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4IjHf-ISoprm2r9FO0szaD/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חדשות מהעבר - עונה שלישית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6Y7AkPBqhGRsHNaG77e2f9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]היו סרטים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj474gCGLEUa7_Zo5Bxgy9fG&index=43/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טעמים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6FX0sryFAHDSQPB5fb0Ye9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זה מזה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6JtH-ZS7brPS6CS2R02nmw/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בין השורות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6fMz_DxFpb-wgQDgR6YAOf/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גאון של אבא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj65xupugNnupcCT0tzS_HH3/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פלאשבק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6gEP4qa6lTQy3P8jcRMS3z/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה הסיפור? - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4pXBYq0rXfkLDWdNriJ_3-/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה הסיפור? - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5cz5fWddeMmXQ_97bNjBh-&index=3/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שערוריה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4S_9xEMNDAw9N6HLPD8tfi/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מוסף המוספים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6RCZ4v_lgajIiOU3PM6nNo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הקשר הישראלי - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6H-qyug15LKMTvLY9TgwVN/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זמן הורים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4njfaDOYLtyRfowZaDbPZE/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אינטרמצו עם אריק - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5K-DyuhP5FghHHN8x0BEgA/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אינטרמצו עם אריק - עונה שנייה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7pQXCOUwNohLCvkbusvqD6/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פרופיל 2013[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5zbilu3Z8azxJpv24X1dwn/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]לינק+[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4D7japJmmP4L0urxx3j33R/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הכל תרבות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4wnHAqF1cabFNSv3p9RCfr&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חי בסרט[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4ph_DTmh2pYW-ENXxsNXVb/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גדולים מהחיים-הדור הבא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7BJiKn76rVDpDvMP4bGd55/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שם נולדתי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5ghNY2qA41CzTan9WPf01m/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עניין של טעם - בישול מהספרים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj56FLWmFEiqFjNIHjKJlO3j/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עניין של טעם[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4nexv1mWGSmQB2fmwuAwUw/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]2,3 הקשב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj74EndXG78h2Oqw60Mk8yWx/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ההפסקה הגדולה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLFF36DACC75CDB042/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זרקור עם גל גבאי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6bjzN59BD70vmYuXlURzEo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סברס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj72fEPM2Mu76jTrHOg8SEok/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]לשון המראות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL3D2F6C62B695FE89/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שיחות ברוח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLABDA0375B943DAEC/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ברית עם מילה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLBA7E16EB421A5F60/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המושבעים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLAB74682339E0173C/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אני לא כזה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8AF214FE9865E579/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כן לציפור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL41D53039B90917B0/?page=1</link><thumbnail>23.jpg</thumbnail></dir>

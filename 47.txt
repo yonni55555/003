@@ -1,0 +1,67 @@
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff082740][B][COLOR aqua]Action Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=action%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff583ec3][B][COLOR aqua]Adventure Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=adventure%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffe74af][B][COLOR aqua]Animation Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=animation%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff763bc][B][COLOR orange]-[/COLOR] [COLOR aqua]Cartoons Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=cartoons%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffc298f][B][COLOR aqua]Anime Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=anime%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff571259][B][COLOR aqua]Biker Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=biker%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7e93c1][B][COLOR aqua]Classic Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=classic%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff00bed3][B][COLOR orange]-[/COLOR] [COLOR aqua]Pre-Code Hollywood[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=pre-code%20hollywood/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffac3f31][B][COLOR aqua]Comedy Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=comedy%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff65d6a6][B][COLOR aqua]Crime Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=crime%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7de992][B][COLOR aqua]Dance Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=dance%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffc74933][B][COLOR aqua]Disaster Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=disaster%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0118b6][B][COLOR aqua]Drama Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=drama%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff0c2208][B][COLOR aqua]Family Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=family%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff05e42c][B][COLOR aqua]Fantasy Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=fantasy%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff17cd67][B][COLOR aqua]Horror Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=horror%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff189902][B][COLOR orange]-[/COLOR] [COLOR aqua]Zombie Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=zombie%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffbb086][B][COLOR aqua]Musical Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=musical%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff927e3b][B][COLOR aqua]Mystery Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=mystery%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff181d8][B][COLOR aqua]Road Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=road%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff872d6e][B][COLOR aqua]Romance Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=romance%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffcfef0a][B][COLOR aqua]Science Fiction Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=science%20fiction%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfff4c790][B][COLOR orange]-[/COLOR] [COLOR aqua]Star Trek[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=startrek%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff9f3daf][B][COLOR orange]-[/COLOR] [COLOR aqua]Star Wars[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=starwars%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff8ce8ce][B][COLOR aqua]Serial Killers[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=serialkiller%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFfffd9e31][B][COLOR aqua]Sports Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=sports%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff27e363][B][COLOR aqua]Super Heroes DC Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=dc%20full%20lenght%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff562f97][B][COLOR aqua]Super Heroes Marvel And DC Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=marvel%20dc%20comic%20full%20lenght%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffcab3fe][B][COLOR aqua]Thriller Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=thriller%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFffc80f8d][B][COLOR aqua]TV Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=tv%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff3c23b6][B][COLOR aqua]Western Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=western%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff7c11f3][B][COLOR aqua]Spaghetti Western Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=western%20spaghetti%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff93be08][B][COLOR orange]-[/COLOR] [COLOR aqua]Western TV[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=western%20tv/?page=1</link><thumbnail>movies.png</thumbnail></dir>
+
+<dir><title>[B][COLOR]Serviceil [/COLOR][/B] [COLOR FFff2ca866][B][COLOR aqua]War Movies[/COLOR][/B][/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?amp%3bsearch_type=video%22%2creturn)&q=war%20movies/?page=1</link><thumbnail>movies.png</thumbnail></dir>2

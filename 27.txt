@@ -1,0 +1,6 @@
+<dir><title>[COLOR aqua]היה היה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL7FRY7ROxqHQQFHpxmJ6r-xiB1K0BwGdu/?page=1</link><thumbnail>30033.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אין חיה כזאת - ממושה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אין חיה כזאת - ממושה&search_type=playlist</link><thumbnail>30033.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוטובוס הקסמים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אוטובוס הקסמים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]המובילים עונה 1[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL-SBsAk8heRmm43KBeVhC9h6R6wCUSW7j/?page=1</link><thumbnail>30033.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המובילים עונה 2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLBaGngHK8wj1OxzO6P3ouBUulIG4fijkG/?page=1</link><thumbnail>30033.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]המובילים עונה 1-2-3[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLEDfJ53YcNLw8oh725vvG4qYd04bDo3z3/?page=1</link><thumbnail>30033.jpg</thumbnail></dir>

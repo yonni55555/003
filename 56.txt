@@ -1,0 +1,6 @@
+<dir><title>[COLOR aqua]Body Blast Workout | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh3BqeGm4CTfixEQ1oGKGe4A/?page=1</link><thumbnail>sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]20 Minute Prenatal Cardio Workout | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh00NqGBY-Y4WxPRInh9s5ul/?page=1</link><thumbnail>sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]TRX Workouts | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh2TOD62h5_ljtiyqwE9i2pU/?page=1</link><thumbnail>sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Beginner Workouts | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh2X2Cf3kQ7RWJX2sb3CWZ_-/?page=1</link><thumbnail>sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Kettlebell Workouts | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh1zWX_45mwhUyY31o2yYwd2/?page=1</link><thumbnail>sports.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Indor Studio | ספורט נשים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipVZHs1YGurwFNK-gktSd3T/?page=1</link><thumbnail>sports.png</thumbnail></dir>

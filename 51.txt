@@ -1,0 +1,23 @@
+
+<dir><title>[COLOR aqua]May Mor-כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCVuuZ4WcW-dSApMdfzW4iSw/?page=1</link><thumbnail>https://maymor.tv/wp-content/uploads/2018/06/more_may-1.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אימוני כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gio1RYbFvueHFyFdrmxUsY8X/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]כושר בכייף עם המאמנת מאיה אמיתי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Gir8caN-f8jL5K9W1FXBBRgd/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מאמן כושר אירובי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipUXwBhfIJy6pzJRetK5Nv2/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]כושר ואירובי - תרגילים לחיטוב ועיצוב הגוף[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GirImmtEfQkLgYgcl3_aHm55/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אימוני כושר ביתיים - עם מאמנת הכושר לירון שני בירן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLOZ5nscrPV88ehnfWI7UmuQ_fwtIu3a68/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]תרגילי כושר ואירובי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLMHMyl3oeyh0ryXE6ypetk9c89oe5HL5u/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]תרגילי כושר ואירובי-2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1c41tQdiDhPTthizOvwpHsV4kaRVEatr/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]תרגילי כושר ואירובי-3[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL1c41tQdiDhPsKxBxXIWIUDxb6thKBK8R/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]תרגילי כושר כדור קפיצה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipT9LzDiyiUcgliv-KrGRae/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Laura - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD0luf_PeFBCB6uwILXybLBc/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Lower Body - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD2pg6TWXr0ZcMGjw7Qgx40q/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua] Gym TABATA - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD0donVsJC_598bIRuTa-MZL/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua] Gym Julia Bognar - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD3Hze49tFRIC-EKQHDS22DS&index=42/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Christine Khuri -  תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD37I2dyaIPwmhbjjQ_km55P/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Cardio  -  תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD19MaOusgNDSBY79K0DDZuu/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Dumbbells - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD3LSSZtz6UnPkGOD7rnxkqI/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Gym Stability Ball - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLsPcs4lOzaD078QrnTh7tMQ_vBj26ZI3I/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Diana Levy Big Booty Workouts - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9kERLsITKLoWpL-FOdMqTLQjhaeHKPHd/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Vicky's Butt and Leg Workouts - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9kERLsITKLr_ZNw01ONH2H8GkUqoQsc9/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Michelle Jacot - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL254A5A4C3C292D34/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>
+<dir><title>[COLOR aqua]Nicole Mejia Workouts - תרגילי כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9kERLsITKLrBrU-0repW-vA5surKwTO6/?page=1</link><thumbnail>aerobic.png</thumbnail></dir>

@@ -1,0 +1,23 @@
+<dir><title>[B][COLOR coral]country music [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3ECUWNSkyFH633Gnk3gluV8/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]uncategorized [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3F52OlmieJsNUd_ABn2iXZN/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]events [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3HGIQ3C_Czmc0x-JaDpFkAA/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]Christmas [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3FKhHChoGD5H6LP4jmkBPyD/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]80/90s [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3FH1ah7Rp671n63z2huFYZ2/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]concerts [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3Efj8N08eopR5NFh1dCmEt0/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]R&B [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3E3fK2NKmylEEqkRVaW9hLz/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]karaoke [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3GVT106wzYNdRoL7YbRZlT-/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]tragically hip [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3FN5M5ct_4PscMv_SL4hcGp/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]screensavers [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3EbjH5y5XlV29jowSjlNMO3/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]cape breton kitchen party [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3F4DNbag62rnJ4EOS5r2mnA/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+
+<dir><title>[B][COLOR coral]motown [/COLOR][/B]</title><link>plugin://plugin.video.youtube/playlist/PLV3wO-tIt_3HzAo-BPj2W-l9VwzxqgHCU/?page=1</link><thumbnail>https://yt3.ggpht.com/a/AGF-l7-zALRItOQnOaN5zwZxpE1XZyiZcdCllnN3wg=s100-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>

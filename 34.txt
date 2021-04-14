@@ -1,0 +1,18 @@
+<dir><title>[COLOR aqua]מתכונים כלליים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLF685A5B80B86FE3B/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מתכונים כשרים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL3zcxKFd7HIKL3oSXq6rCH-fvFGCaOaS9/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מתכונים. מטבח יהודי ומזרח ים תיכוני[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRUtxvlnaqwx3KugKPtd4C3Iexv0Ee5U3/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]שום פלפל ושמן זית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdWKMbzk5YZ1Zi3hMYGr6xrE/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אוכל רחוב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLeh1TPHGKHcB3YRXfu8VHylS9ghgpoD3z/?page=1</link><thumbnail>cooking.png</thumbnail></dir>       
+<dir><title>[COLOR aqua]סודות מתוקים [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLasHtCerUASTvxNs2P5LFzuF3_CnsYdTF/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]משה שגב במטבח[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLasHtCerUASQ-_205phAMWJFRJfzQ6JYE/?page=1</link><thumbnail>cooking.png</thumbnail></dir>         
+<dir><title>[COLOR aqua]מיקי שמו [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מיקי שמו&search_type=playlist</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בישולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLkSacTgmGKr6a6sPE1F7q3VF7T00lffQc/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]בישולים 2[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLdDyYBhRKiyG21-epuoI57b7zBfAyQcvI/?page=1</link><thumbnail>cooking.png</thumbnail></dir> 
+      
+
+<dir><title>[COLOR aqua]לאון אל דנטה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8jMo70ebRM7nnRez1MyfKBFLTj9jzl1V/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]במטבח עם אמא[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8jMo70ebRM6gYuy9d7yoPLTGg1asK78w/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]מיקי שמו עושה בית ספר - עונה ראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8jMo70ebRM7tvFCZsiXhakIsbDwHOe9c/?page=1</link><thumbnail>cooking.png</thumbnail></dir>         
+<dir><title>[COLOR aqua]מועדון ארוחת הבוקר עם אביב משה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8jMo70ebRM6CAq8sKdjfI4_N3qUO5U1j/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]פשוט לאפות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8jMo70ebRM6aT0ZciSlv_YhP2Kjp1tuk/?page=1</link><thumbnail>cooking.png</thumbnail></dir>
+<dir><title>[COLOR aqua]המטבחון של ירון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL156601B302C8F462/?page=1</link><thumbnail>cooking.png</thumbnail></dir>

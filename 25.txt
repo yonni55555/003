@@ -1,0 +1,17 @@
+<dir><title>[COLOR aqua]דורה [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=דורה פרקים מלאים בעברית  &search_type=playlist</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מפרץ ההרפתקאות[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מפרץ ההרפתקאות פרקים מלאים בעברית&search_type=playlist</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]תמר הבלשית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsAki2FqbtHQ7xW3zIMCTL3d/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ענבלי בא לי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsB2vKN57J-hZAk8nqGpa4EF/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זמן לזוז[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsDYbIQJMDX4usMYw7pYmPxj/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הסוד של מיה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsCGEVOC2iJxnWNEjI13xbnA/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עולמו הקסום של מקס[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsCeVQhASYBNmykK4gKh0DCe/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מר למה וגברת ככה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=מר למה וגברת ככה  &search_type=playlist</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]משפחת יומולדת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsBOUPxtM2CD7yGs1D8NCM_Z/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שטויות בחדשות [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsBzxaUfj3smv1tJ8sKQXwrW/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בגינה של לין[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=בגינה של לין  &search_type=playlist</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סיפורי פיות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsD8YvtRkkqjYC5SF7TKvAcM/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]יצירה בקצרה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsC0SPM0_dgOVIDn5vcCH8Ti/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שלוש ארבע לעבודה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsASIzs8TcS3FFYEL68jBPWO/?page=1</link><thumbnail>30031.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רוני וקשיו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLPWc8VdaIIsDPb04SHd5fzzqYt3FtmWs-/?page=1</link><thumbnail>Cartoons.png</thumbnail></dir>
+<dir><title>[COLOR aqua]לולי כללי [/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCcYc90JDakyeXGeZgPL1ejA/?page=1</link><thumbnail>luly.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טלטאביז[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLCVlyUabAQX0baRcL13edNd1zBeqLuoaV/?page=1</link><thumbnail>luly.jpg</thumbnail></dir>

@@ -1,0 +1,78 @@
+<dir><title>[COLOR aqua]לאן יהודים לאן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL45D145EEFF323EF1/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עברית בסימנטוב[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7z_fK_Sklm-S0MADQVS-Zh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פגישה עם סופר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6c9WpeMqBRHuMMLdARsOIl/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה פתאום[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6Y8TPlvSP29SBEK2YzX6UC/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דנידינה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgRRhmqqRmz_jIiSCoxnOhI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שרתי לך ארצי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdUxzLIyhq070W9fe8uSQT9h/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]גם אנו שופטים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgO2tjJ_b6f54jNfh5yxA1w/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אנחנו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkg65bHddf6_uUgMRVQuQqom/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אין בעיה עם דודו טופז[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4tQNSa0P2f18xxVyA-G11x/?page=1</link><thumbnail>23.jpg</thumbnail></dir>    
+
+<dir><title>[COLOR aqua]דבי בבית חולים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7XhtXmAGGejgA8d8xk2m11&index=3/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ניקוי ראש[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdWkaAQTs1ddlhdhooBk26Bh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua] זהו זה - מערכונים קצרים [/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6YNFu1RaXRrKl4wYAB1YZ1/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ציפיטפוט[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCki_l6pMqE3vm2yR4cqWbJql/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]הדוברמן החברמן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkhoiIsQ5ulJpCrERP5YhaCh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שעת כושר[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkj0xW8htgeJfvoaVSSFQjaR/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]האיים אבודים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLRpSOtNcr-nFtxYRjAbXMYbZuTUetlhQA/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עוד סיפור[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkiQuXZHFU3PWXgC4J6eYiKM/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ציפי בלי הפסקה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLozcTjklgUYyG9WCyBJ5tM7wXjSNZZ-4Z/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בתיה עוזיאל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjpRRbW0Zg6dNiZns-o4H2J/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מה זאת אומרת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgOkSv-pa40tjYGssr80YFu/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]השעה שלנו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkj-zlc79D6PAbtJ1c83_8Tz/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שניים אוחזין[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjCG6X8Aojp_aQYLisBccE6/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שובו של השריף[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkhp6_5CNAQLg1QT6YCdPA64/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]משדרי הביולוגיה הראשונים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkhp6_5CNAQLg1QT6YCdPA64/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מושגי יסוד ביהדות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjalPrmfZC9WbAisTau4uez/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]יוצא מן הכלל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkg-ni4Rf2VElyCYlNXbkCAJ/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דלת הקסמים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjj231haFQyE787KZce7I-T/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דן ועדנה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgBMfVqgq_yX98dEd39BGIs/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]בולבול הקבולבול[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkj2medujsVWr6DiBQrEvQHz/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רואים 6/6[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkii5mQfIWt8BaEl8PwF41z9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קרובים קרובים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgAney3rJgsJa0V4yhYbUDG/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פיצוחים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjPV9ILga3udm6D27M0VXtI/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סולו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjMzXLDwfW2fB6Dm35N_fGz/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מסך לספרות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkiC1s6pEIlWjK0B72WrMUNn/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חשבון פשוט[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkj0GMbiBn0u_dCJRIhttNTT/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]השריף מגבעות הוליווד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjXLj9ZTCsUY3ET0sJXr0YN/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Police file[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkhjLsA5QY3VstqDI6RakBkP/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Mission: Possible[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkh6APhNV4AUmzzd_kY53ctS/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארץ מולדת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjYnhH2VTX6nE6LzYFxHnKs/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Signal CQ Calling[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkgi_a2X8IAdmLfrG5_cOAq5/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Neighbours[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkioehq3dj0z9qmZed9Qe7G-/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Here we are[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkiUbjMohokWFVTB2TJZjg7v/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Radio Fever[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL6A9E9B129E1AB41C/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]השריף מגבעות הוליווד[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL2ZWSou1jCkjXLj9ZTCsUY3ET0sJXr0YN/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+ 
+<dir><title>[COLOR aqua]בבית של פיסטוק[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLXBg2muL3FT4ZFhIwUSIK4Je6A36NhRJU/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קריאת כיוון[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL9771858B87C51F9F/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קשת וענן[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6qcpdP7e44dNj7xHuwd3oo/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]בלי סודות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL8651FB75A99093FE/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עניין של זמן - העונה הראשונה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54GipZ7KO8jtKlLzIQM3klZ49t/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]עניין של זמן - כל העונות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6ALaQJ0c7eF_Pb9WXUoQ-I/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+ 
+<dir><title>[COLOR aqua]עשרים פלוס - כל העונות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj7hNn37mL60Dkhck-md70nR/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]חצי המנשה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLrrGhNe9FN6vie1pyq13mudHgDo9lgQuc/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+
+
+<dir><title>[COLOR aqua]אסכולה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4NUt_gtD2AA6tD5zWXmO3g/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]שבעים פנים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4_euQ9QLSONWvFbmGjoSJc&index=9/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קשר משפחתי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4qMe3mNyJ8W38Y157LLPjh/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מי בחלילית[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj58DIAef8lhaUVAirMrZFdz/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אופרה אחרת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj6m5hbuhGYPLxFBsN-qD-Mj&index=4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זהירות ציפי בדרכים[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj4ZsfObFMOLKpQP22c9Qizt/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אכפת לי[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj40wYDFVEnd7-PxuLDmfGd6/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]ארצנו הקטנטונת[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PL51YAgTlfPj5pd5gBisAd4eV9h266ari2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סופי לעת עתה[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLB7C7C77FF944FF70&index=2/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+
+
+<dir><title>[COLOR aqua]מוצ"ש - ספי ריבליו[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLiRWC7Q54Giq86kHcJGInrW7WgEKWjt29/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]לא כולל שירות[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLttfoK87AdXQM9BaWjichoLYzHSMftJ4/?page=1</link><thumbnail>23.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חיים זה לא הכל [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חיים זה לא הכל/?page=1</link><thumbnail>https://upload.wikimedia.org/wikipedia/he/thumb/b/b1/LoAkol.jpg/220px-LoAkol.jpg</thumbnail></dir>
