@@ -1,0 +1,13 @@
+<dir><title>[COLOR aqua]הטוב ביותר בישראל![/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCnY51bp10OxDUwNDKKnCMgg/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]הטוב ביותר בעולם![/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCRX7UEyE8kp35mPrgC2sosA/playlists/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מתורגמים מאתר סרטים[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCrA1_yVsX8bSaKdNiXj0f-w/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]מתורגמים אתר סרט[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCwLaLrXo8IYqpNfAipy3CGQ/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סרטים ישראליים[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UCN5mmIG-0CucLSRmdB5hkTQ/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]סרטים חדשים אידיבי[/COLOR]</title><link>plugin://plugin.video.youtube/channel/UC28_yb6OTuom0LD5Bcc192Q/?page=1</link><thumbnail>https://yt3.ggpht.com/-l0S3cJpdAXI/AAAAAAAAAAI/AAAAAAAAAAA/OmClcgO7WyI/nd/photo.jpg</thumbnail></dir>
+
+
