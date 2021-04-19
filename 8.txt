@@ -1,0 +1,15 @@
+<dir><title>[COLOR aqua]הצגות לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=הצגות לילדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטים לילדים מדובב + מתורגם [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סרטים לילדים מדובב + מתורגם&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]קלטות לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=קלטות לילדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]יובל המבולבל[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=%d7%99%d7%95%d7%91%d7%9c%20%d7%94%d7%9e%d7%91%d7%95%d7%91%d7%9c</link><thumbnail>30022.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ערוץ כוכבי הילדים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ערוץ כוכבי הילדים&search_type=playlist</link><thumbnail>https://yt3.ggpht.com/a/AATXAJwqCO6o62V5YrWzEpXl4PCDL0uJCkbFBwrX0g=s288-c-k-c0xffffffff-no-rj-mo</thumbnail></dir>
+<dir><title>[COLOR aqua]דוד חיים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=דוד חיים&search_type=playlist</link><thumbnail>30024.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מיכל הקטנה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=%d7%9e%d7%99%d7%9b%d7%9c%20%d7%94%d7%a7%d7%98%d7%a0%d7%94</link><thumbnail>30027.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]רינת [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=רינת&search_type=playlist</link><thumbnail>30028.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]פסטיגל [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=פסטיגל&search_type=playlist</link><thumbnail>30029.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מופעי קרקס[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=full%20circus%20show</link><thumbnail>kids.png</thumbnail></dir>
+		
+	
+<dir><title>[COLOR aqua]לימוד קסמים לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=לימוד קסמים לילדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>	
+<dir><title>[COLOR aqua]יצירה לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=יצירה לילדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]אוריגמי לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=אוריגמי לילדים&search_type=playlist</link><thumbnail>kids.png</thumbnail></dir>
