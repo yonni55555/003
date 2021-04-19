@@ -1,0 +1,33 @@
+
+<dir><title>[COLOR aqua]דוקו בעברית[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=%d7%93%d7%95%d7%a7%d7%95%d7%9e%d7%a0%d7%98%d7%a8%d7%99%20%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99</link><thumbnail>documentary.jpg</thumbnail></dir>
+        #addDir('[COLOR aqua]סרטוני טבע בעברית[/COLOR]</title><link>PLnzhIyrsnB5Y8Ymf2ryG-LlX0DxK0JD5N',1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]זמן אמת[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=זמן אמת&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>		
+<dir><title>[COLOR aqua]חוצה ישראל[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חוצה ישראל&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+        #addDir('[COLOR aqua]דוקומנטרי עם רינו צרור[/COLOR]</title><link>PLnzhIyrsnB5ahqRF_z2KwVFffa65NbDyR',1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טבע לילדים בעברית [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=טבע לילדים בעברית&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+        #addDir('[COLOR aqua]סרטונים נבחרים נשיונל גאוגרפיק[/COLOR]</title><link>PLivjPDlt6ApQ8vBgHkeEjeRJjzqUGv9dV',1</link><thumbnail>documentary.jpg</thumbnail></dir>
+        #addDir('[COLOR aqua]סרטונים פופולריים סרטי טבע תיעודיים[/COLOR]</title><link>PL5o3ll3G4acxgDMSO7JXvDsosQ-UDPL6n',1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]נשיונל גיאוגרפיק[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=national%20geographic</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]Net Geo Wild[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=Net%20Geo%20Wild</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דיסקברי[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=discovery</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דוקומנטרי BBC[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=bbc%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטוני טבע HD [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סרטוני טבע HD&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]טבע וחיות בר HD [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=טבע וחיות בר HD&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אוקיינוס[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=ocean%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]אפריקה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=africa%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+        #addDir('[COLOR aqua]רוסיה הפראית[/COLOR]</title><link>PLql7ZywaMwm0qsDq7eziLHbtmHkD77aCj',1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מדע[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=science%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]דינוזאורים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=dinosaur%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חיות קטלניות[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=deadly%20animals</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]כרישים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=sharks%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]נחשים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=snakes%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>        
+<dir><title>[COLOR aqua]ציפורים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=birds%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+
+<dir><title>[COLOR aqua]איך זה פועל[/COLOR]</title><link>plugin://plugin.video.youtube/playlist/PLLgqOez346ZPcqnmLsDkqr0kPjuRz5Rjo/?page=1</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חוצנים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=aliens%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]קונספירציות לועזית[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=conspiracy%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]מערכת השמש[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=solar%20system%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]חורים שחורים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=חורים שחורים&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+		
+<dir><title>[COLOR aqua]היסטוריה[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=history%20documentary</link><thumbnail>documentary.jpg</thumbnail></dir>
+[/COLOR]</title><link>PL3H6z037pboG9_flx9II9XMO5VE_1qHtR',1</link><thumbnail>documentary.jpg</thumbnail></dir>
