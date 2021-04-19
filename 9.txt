@@ -1,0 +1,4 @@
+<dir><title>[COLOR aqua]סרטים דוקומנטרים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סרטים דוקומנטרים&search_type=playlist</link><thumbnail>documentary.jpg</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטים ישראליים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סרטים ישראליים&search_type=playlist</link><thumbnail>movies.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטים מתורגמים[/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=%d7%a1%d7%a8%d7%98%20%d7%9e%d7%aa%d7%95%d7%a8%d7%92%d7%9d%20%d7%9e%d7%9c%d7%90</link><thumbnail>movies.png</thumbnail></dir>
+<dir><title>[COLOR aqua]סרטים לילדים [/COLOR]</title><link>plugin://plugin.video.youtube/kodion/search/query/?q=סרטים לילדים&search_type=playlist</link><thumbnail>movies.png</thumbnail></dir>2
