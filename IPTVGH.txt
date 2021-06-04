@@ -1,0 +1,989 @@
+#EXTM3U tvg-shift=1 x-tvg-url="http://tinyurl.com/epg-israel"
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]" tvg-logo="http://thumbs2.imagebam.com/7c/71/27/8d2446784877333.jpg", [COLOR coral]==== תחנות טלוויזיה ==== [/COLOR] 
+https://tinyurl.com/idan-guide
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", 13 רשת
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+
+
+
+
+ 
+
+ 
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 20 מורשת
+https://dvr.ch20-cdnwiz.com/hls/live_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.economist.co.il/_Uploads/dbsArticles/_cut/F0_0244_0000_sc_244.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 21 ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/CHANNEL21-OTT/CHANNEL21-OTT-P0_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://storage.googleapis.com/openscreenshot/7/_/1/H1WUfc1_7.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_1.8k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=/*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/7f/c9/59/47d865784878303.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 33 מכאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.8k/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://hala-tv.com/images/hala_logo.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch HALA TV
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/nGw5vHfB5NO9xlUHF4OeyNSeTSfxurVU4EuQtfFL5cd_vQ-U1JDT6NTI6dps2peeZLM" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch הידברות
+https://srv11.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch קבלה
+https://edge2.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 99 הכנסת
+https://w1.013.gostreaming.tv/Knesset/myStream/chunklist_w618391750.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-logo="http://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/49/e2/cc/49e2cc3c-726b-52cb-9029-42489a1b9891/source/512x512bb.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+#EXTINF:-1 tvg-logo="https://www.sport5.co.il/Images/trashtalk-default-logo.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]", אתר ספורט 5
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8?sd=10&rebase=on|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36&Referer=http://radio.sport5.co.il
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shmua.com/wp-content/uploads/2019/11/623236632236-400x335.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",ch 26 האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shmua.com/wp-content/uploads/2019/11/623236632236-400x335.jpg" group-title="[COLOR blue][COLOR deepskyblue]עידן+טלוויזיה [/COLOR]",מקור-2 האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+
+
+---------------------------רדיו------------
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="http://img.app.kiwi/icon/j7F20MqEXUjKLokIFSiV-m6r6w2gqJTzxSyLyzyiXEB0wGrWxcLCP_lTp77KutzDtqk", [COLOR coral]==== תחנות רדיו ==== [/COLOR] 
+https://tinyurl.com/idan-guide
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/HtuClSDdyUIU2Ptof2wk53xn6YhKSAcAQnUMdixj.png",כאן ב
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/Q4IUO2dHHBgUhGxvj5jvCiOGOPedRATh0yvbuzeU.png",כאן גימל
+https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/kangimmel_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://cdn1.player.fm/images/38484/series/Rsc1qnHTuUHNiXPD/512.png",גלגל"צ
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.israeldefense.co.il/sites/default/files/_Uploads/dbsArticles/Galatz.png",גלי צה"ל
+http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://i1.sndcdn.com/avatars-000292427509-yu2o2d-t500x500.jpg",רדיו מהות החיים
+https://eol-live.cdnwiz.com/eol/eolsite/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/tdGoDH47Dvfknxn1UDfuqhgqFr8XTxTIlxVNhJPn.png",כאן 88
+ https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="http://www.jso.co.il/wp-content/uploads/2018/04/%D7%9B%D7%90%D7%9F-%D7%A7%D7%95%D7%9C-%D7%94%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.png",כאן קול המוסיקה
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://guzei.com/online_radio/logo300/6835.jpg",כאן תרבות
+https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/kantarbut_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/I9xTaFKUMVoknwl94vLi8QJPFFeDCJYmEHO7ZdvC.png",כאן נוסטלגי
+https://kanlivep2event-i.akamaihd.net/hls/live/749630/749630/kannostalgia_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://i.ytimg.com/vi/MJkBAmFG0tc/hqdefault.jpg",כאן ים תיכוני
+https://kanlivep2event-i.akamaihd.net/hls/live/749632/749632/kanyamtichoni_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://kanjpg.akamaized.net/PUB1/kanreka/Images/kanreka_HqIKmUzVeE_11.jpg",כאן Reka
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/9wIWufeXOeRUij4D8RSY1G0sgA1tFOALCzMEqMIh.png",כאן-مكان
+https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/kanmakan_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://pbs.twimg.com/profile_images/1070664530647244801/4HvSxF79.jpg",כאן-فارسی
+https://kanlivep2event-i.akamaihd.net/hls/live/749631/749631/kanfarsi_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.360
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1504727660.png",90FM רדיו תשעים
+http://90.cdnwz.net/90fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1505336396.png",ECO 99FM
+http://99.mediacast.co.il/99fm_aac|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="http://www.radiodarom.co.il/wp-content/uploads/2014/06/unnamed.jpg",97FM רדיו דרום
+http://audio-darom.ecast.co.il:9000/darom97fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.internationalradiofestival.com/wp-content/uploads/2018/08/102FM-Tel-Aviv-Logo-Square.jpg",102FM רדיו תל אביב
+http://102.livecdn.biz/102fm_aac|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_146/rsz_615_346_103_615_300915.jpg",103FM רדיו ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="http://digital.100fm.co.il/app/cover/100fm.png",100FM רדיוס
+http://100fm.streamgates.net:80/Radios100Fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ZLU6jTWyUD.png",101FM רדיו ירושלים
+http://101.cdnwz.net/101fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.rlive.co.il/storage/uploads/stations/XOgOY9euedYEN8qqTNbLx1sAk7EZGlsA3aMVEJvs.png",102FM רדיו קול הים האדום
+http://eilat.cdnwz.net/102fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://www.isramedia.net/images/users/2/4b5ce610ab40c3a77b86625b6e3f3b7f.png",104.5FM רדיו צפון
+http://1045.cdnwz.net/1045fm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://broken-tv.co.il/wp-content/uploads/2019/05/PjF12mnENrlL0lCVMyaMkpOxfup163AcLcsaRCY5.png",107.5FM רדיו חיפה
+http://1075.livecdn.biz/radiohaifa|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+#EXTINF:-1 tvg-id="" group-title="[COLOR blue][COLOR deepskyblue]עידן+רדיו [/COLOR]" tvg-logo="https://i.ytimg.com/vi/Q_QL_10mbP4/hqdefault.jpg",קול הים התיכון
+http://www.rs.mizrahit.fm:7777/;|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+
+
+
+פלטו-------
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]80s Rewind[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Black Cinema[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Classic Movies Channel[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]CMT Westerns[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Cult Films[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Flicks of Fury[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Paramount Movie Channel[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Action[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Comedy[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Documentaries[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Drama[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Horror[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Romance[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Spotlight[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Terror[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]Pluto TV Thrillers[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR burlywood]The Asylum[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Antiques Roadshow UK[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Black Ink Crew[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Doctor Who Classic[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Dog The Bounty Hunter[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Fear Factor[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Forensic Files[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Gordon Ramsay's Kitchen[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d9ccebb60a26500097dc5a4/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Leverage[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccebb60a26500097dc5a4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Midsomer Murders[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]MST3K[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]MTV The Challenge[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Rifftrax[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]The Addams Family[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5aea40b35126c2157123aa64/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]The New Detectives[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]This Old House[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e96a0423e067bd6df6901/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]Unsolved Mysteries[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR aqua]World Poker Tour[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ea4f93c1-e9e0-42be-ad97-7cc92caf55ef&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Adventure Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true   
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] After School Cartoons[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Anime All ages[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Anime all day[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5595e43c66ace1652e63c6a2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Awesomeness Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] BET Her[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] BET Pluto Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59641d9173ac1fec2fc01f17/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Big Sky Conference[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Bloomberg Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] British Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812bfbe4ced4f7b601b12e6/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Buzzr[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Cats 24/7[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] CBSN Los Angelees[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] CBSN Los Angeles 2[/COLOR]
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT/pluto&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b6b285823ecb93393cbf766/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Chassy[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812afe1d0f0b8d55dde67fa/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Cheddar News[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Classic Toons Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55383613c0b860c11a631e36/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Classic Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] CMT Pluto Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56283c8769ba54637dea0464/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] CNet[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] CNN[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Comedy Central Pluto Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=908952f8-52aa-4f32-8bb2-2c775610b8a9&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca675d6593a5d78f0e85c2e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Comedy Central Stand-Up[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bb1b439ea5c9e53afd21325/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Complex Networks[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Court Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Crime Network[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Dogs 24/7[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Dora TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d017a708fe5fb5ffb04935b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Eleven Sports Network[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d017a708fe5fb5ffb04935b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] ET Live[/COLOR]
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-ctd/desktop/pluto   ---> https://pub.pluto.tv/content/channels/5dc0c78281eddb0009a02d5e/details&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/53b1c003eded29524e1deb97/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Eye Candy[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Fail Army[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Fight[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Food Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Fox Sports[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5938888cd045ffce74cf9048/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] FrontDoor[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Funny AF[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486c4834ceb37d3c458a65/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Fuse[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486c4834ceb37d3c458a65/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d51dd5d369acdb278dfb05d/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Gameplay: Roblox[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51dd5d369acdb278dfb05d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Glory Kickboxing[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] IGN[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Impact Wrestling[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27a7badb45b1f50b91b0b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Internet Gold[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Lively Place[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+ 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Minecraftv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] MLS[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Mtv Dating[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Mtv Pluto Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54ee5ea872c1cbb844546d3f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nasa Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ee5ea872c1cbb844546d3f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Naturevision Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] NBC News Now[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Newsmax TvNewsmaxTV[/COLOR]
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/pluto.m3u8?serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] NFL Channel[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dae09950c657500093121a2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nick Games[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae09950c657500093121a2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nick Jr. Pluto TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dae091827c8af0009fe40d1/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nick Movies[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae091827c8af0009fe40d1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nick Pluto TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Nosey[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59c2c3ae40e64939daad8b76/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] PeopleTV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] PGA TOUR[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Animals[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2e8c4a9e06fa0511b75276/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Biography[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Cars[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Celebrity[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Conspiracy[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bc4d687da4f1f096e217e25/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Election[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bc4d687da4f1f096e217e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Family[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Gamer[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Her[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c86b772e7f96a5a929736c0/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Her Dramas[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv History[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Kids[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Kids Animation[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Lives[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Military[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/564b9ed65fbbbca07e8d09d2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto TV Movies[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59976841a09fd13c9b590ce8/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto TV Movies 2[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv News[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Reality[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto TV Sci-Fi[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true   
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Science[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto TV Sports[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Spotlight[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56377913f7c493ce618c4de1/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Surf[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/54173136ff9fba68282f4d53/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Tech[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto TV Travel[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=15a12e71-2cef-4d43-bdca-68a872914486&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Travel[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Tween[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Weddings[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d9f8ae00270560009b81891/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Pluto Tv Winter Sports[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9f8ae00270560009b81891/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] pocket.watch[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486bed428fe37d8cadba45/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] PursuitUP[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b22d1ee2795d0021bea5889/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Red Bull TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b22d1ee2795d0021bea5889/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56438e60e3d17178331a15c6/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] RT America[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56438e60e3d17178331a15c6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55a6a3275616b6240c26f393/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Shout! Factory TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Sky News[/COLOR]
+https://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8?serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5317bfebff98025b3200ff99/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Slow Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Spike Outdoors[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Spike Pluto Tv[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486728a97cd275e7465733/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] SportsGrid[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486728a97cd275e7465733/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/59974b6d7ec5063cb56f24c9/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Stadium[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Stand-Up TV[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] TBN[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5633f71888576f124c834ef4/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] THC[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d486acc34ceb37d3c458a64/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] The First[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Today[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true  
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e3f1fa91586c9d2fbe7579/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Today's Top Story[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e3f1fa91586c9d2fbe7579/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Top Stories by Newsy[/COLOR]
+https://content-ause5.uplynk.com/channel/04cce35dcd994bbc82d61805ae67a65f/b.m3u8?ad=pluto&hlsver=6&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] TOTALLY TURTLES[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Tv Land Drama[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] TV Land Sitcoms[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] TYT Network[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] VH1 I love reality[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] Voyager Documentaries[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="[COLOR burlywood]Pluto TV [/COLOR]",[COLOR coral] WeatherNation[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=21aee7f1-b81b-4868-92bc-f93d5a4fe102&deviceId=f287c3a3-9cdf-4b47-b286-3d3e3ce7087c&deviceVersion=79.0.3945.117&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=34.6488&deviceLon=-120.1701&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true 
+
+
+ספורט-------
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 1 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd1&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 2 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd2&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 3 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd3&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 4 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd4&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 5 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd5&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 6 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd6&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 7 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd7&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 8 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd8&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 1[/COLOR]
+http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 2[/COLOR]
+http://stream.tvtap.live:8081/live/arena2.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 3[/COLOR]
+http://stream.tvtap.live:8081/live/arena3.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 4[/COLOR]
+http://stream.tvtap.live:8081/live/arena4.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 5[/COLOR]
+http://stream.tvtap.live:8081/live/arena5.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN SPORTS 1[/COLOR]
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN SPORTS 2[/COLOR]
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 1 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 2 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 3 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein3.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 4 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein4.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 5 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein5.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 6 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein6.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 7 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein7.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 8 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein8.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 9 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 10 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein10.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN La Liga[/COLOR]
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sports 1[/COLOR]
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 1[/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 1[/COLOR]
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 2[/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 2[/COLOR]
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 3[/COLOR]
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]SKY SPORTS CRICKET[/COLOR]
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN LA LIGA[/COLOR]
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEK SPORTS EAST[/COLOR]
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEK SPORTS WEST[/COLOR]
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BELLATOR MMA HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]CBS SPORTS[/COLOR]
+http://stream.tvtap.live:8081/live/cbssports.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]CHANNEL FIGHT HD[/COLOR]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN U[/COLOR]
+http://stream.tvtap.live:8081/live/espnu.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN 2 HD[/COLOR]
+https://gma2.blab.email/espn2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 1[/COLOR]
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 2[/COLOR]
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FIGHT HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FITE TV HD[/COLOR]
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FITE TV HD[/COLOR]
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 1 HD[/COLOR]
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 2 HD[/COLOR]
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 3 HD[/COLOR]
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS NEWS HD[/COLOR]
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]GOLF CHANNEL HD[/COLOR]
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]GLORY Kickboxing HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]IMPACT Wrestling HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]IMPACT Wrestling HD(Back Up)[/COLOR]
+https://a6m6d5v7.ssl.hwcdn.net/hls/1080p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]KOK Fights HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]KOK Fights HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MMA Junkie HD[/COLOR]
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MMA TV HD[/COLOR]
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MLS HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBA[/COLOR]
+http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBA HD[/COLOR]
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBCSN[/COLOR]
+http://stream.tvtap.live:8081/live/nbcsn.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NFL Network[/COLOR]
+http://stream.tvtap.live:8081/live/nfl.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MLB Network[/COLOR]
+http://stream.tvtap.live:8081/live/mlb.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 1[/COLOR]
+http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 2[/COLOR]
+http://stream.tvtap.live:8081/live/tsn2.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 3[/COLOR]
+http://stream.tvtap.live:8081/live/tsn3.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 4[/COLOR]
+http://stream.tvtap.live:8081/live/tsn4.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 5[/COLOR]
+http://stream.tvtap.live:8081/live/tsn5.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]PLUTO TV Fight HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&deviceId=5ad9bda9fd87eb3a2717cce0&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Racing TV[/COLOR]
+http://stream.tvtap.live:8081/live/racinguk.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]REDBULL TV HD[/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ROH WRESTLING HD[/COLOR]
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky 1 Racing[/COLOR]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky 2 Racing[/COLOR]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd[/COLOR]
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 1[/COLOR]
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 2[/COLOR]
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 3[/COLOR]
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 4[/COLOR]
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 5[/COLOR]
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 6[/COLOR]
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 1[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 2[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 3[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 4[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 5[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]True Premier Football 1[/COLOR]
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TMZ HD[/COLOR]
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Tennis Channel HD[/COLOR]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]UFC 2 HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]WWE[/COLOR]
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+
