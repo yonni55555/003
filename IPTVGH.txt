@@ -1,0 +1,487 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sports 1 HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=31&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sports 2 HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=32&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sports 3 HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=33&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sport ESPN HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=34&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN USA HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=44&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN 2 USA HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=45&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=82&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN 2 Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=83&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 1 UK HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=41&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 2 UK HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=42&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 1 Poland HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=57&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eleven Sports 1 Poland HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=71&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eleven Sports 2 Poland HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=72&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Fox Sports 1 HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=39&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Fox Sports Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=85&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Fox Sports 2 Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=86&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Fox Premium Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=87&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBCSN HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=43&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sports Action UK HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=37&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sports Arena HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=36&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sports Football UK HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=35&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sports Golf HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=70&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sports Main Event UK HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=38&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky Sport Football Italy HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=46&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportv 2 Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=79&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportv 3 Brasil HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=80&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv1 Portugal HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=49&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport TV2 Portugal HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=74&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Tennis Channel HD[/COLOR]
+https://blackaddon.com/sat/daddy-601.php?canal=40&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 1 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd1&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 2 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd2&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 3 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd3&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 4 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd4&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 5 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd5&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 6 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd6&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 7 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd7&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sportzonline 8 HD[/COLOR]
+https://blackaddon.com/sat/sportzone-601.php?canal=hd8&cat=hd&k=blackgh0o0st&file=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 1[/COLOR]
+http://stream.tvtap.live:8081/live/arena1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 2[/COLOR]
+http://stream.tvtap.live:8081/live/arena2.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 3[/COLOR]
+http://stream.tvtap.live:8081/live/arena3.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 4[/COLOR]
+http://stream.tvtap.live:8081/live/arena4.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Arena Sports 5[/COLOR]
+http://stream.tvtap.live:8081/live/arena5.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN SPORTS 1[/COLOR]
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN SPORTS 2[/COLOR]
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 1 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein1.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 2 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein2.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 3 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein3.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 4 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein4.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 5 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein5.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 6 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein6.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 7 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein7.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 8 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein8.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 9 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein9.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ΒΕΙΝ 10 Arab[/COLOR]
+http://stream.tvtap.live:8081/live/bein10.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN La Liga[/COLOR]
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT Sports 1[/COLOR]
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 1[/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 1[/COLOR]
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 2[/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 2[/COLOR]
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BT SPORTS 3[/COLOR]
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]SKY SPORTS CRICKET[/COLOR]
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEIN LA LIGA[/COLOR]
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEK SPORTS EAST[/COLOR]
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BEK SPORTS WEST[/COLOR]
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]BELLATOR MMA HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]CBS SPORTS[/COLOR]
+http://stream.tvtap.live:8081/live/cbssports.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]CHANNEL FIGHT HD[/COLOR]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN U[/COLOR]
+http://stream.tvtap.live:8081/live/espnu.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ESPN 2 HD[/COLOR]
+https://gma2.blab.email/espn2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 1[/COLOR]
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Eurosport 2[/COLOR]
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FIGHT HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=726&deviceId=5812b0f2237a6ff45d16c3f9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FITE TV HD[/COLOR]
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FITE TV HD[/COLOR]
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 1 HD[/COLOR]
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 2 HD[/COLOR]
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS 3 HD[/COLOR]
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]FOX SPORTS NEWS HD[/COLOR]
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]GOLF CHANNEL HD[/COLOR]
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]GLORY Kickboxing HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]IMPACT Wrestling HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]IMPACT Wrestling HD(Back Up)[/COLOR]
+https://a6m6d5v7.ssl.hwcdn.net/hls/1080p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]KOK Fights HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]KOK Fights HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MMA Junkie HD[/COLOR]
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MMA TV HD[/COLOR]
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MLS HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBA[/COLOR]
+http://stream.tvtap.live:8081/live/nba.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBA HD[/COLOR]
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NBCSN[/COLOR]
+http://stream.tvtap.live:8081/live/nbcsn.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]NFL Network[/COLOR]
+http://stream.tvtap.live:8081/live/nfl.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]MLB Network[/COLOR]
+http://stream.tvtap.live:8081/live/mlb.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 1[/COLOR]
+http://stream.tvtap.live:8081/live/tsn1.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 2[/COLOR]
+http://stream.tvtap.live:8081/live/tsn2.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 3[/COLOR]
+http://stream.tvtap.live:8081/live/tsn3.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 4[/COLOR]
+http://stream.tvtap.live:8081/live/tsn4.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TSN 5[/COLOR]
+http://stream.tvtap.live:8081/live/tsn5.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]PLUTO TV Fight HD[/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&deviceId=5ad9bda9fd87eb3a2717cce0&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Racing TV[/COLOR]
+http://stream.tvtap.live:8081/live/racinguk.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]REDBULL TV HD[/COLOR]
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]ROH WRESTLING HD[/COLOR]
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky 1 Racing[/COLOR]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sky 2 Racing[/COLOR]
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd[/COLOR]
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 1[/COLOR]
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 2[/COLOR]
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 3[/COLOR]
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 4[/COLOR]
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 5[/COLOR]
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Skynet Sports hd 6[/COLOR]
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 1[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 2[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 3[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 4[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Sport Tv 5[/COLOR]
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]True Premier Football 1[/COLOR]
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]TMZ HD[/COLOR]
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]Tennis Channel HD[/COLOR]
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]UFC 2 HD[/COLOR]
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="[COLOR coral]ספורט [/COLOR]",[COLOR coral]WWE[/COLOR]
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+
