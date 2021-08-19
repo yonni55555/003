@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I67BN6E.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ערוץ 12[/COLOR]
+https://vsd123.mycdn.me/hls/1491940346522.m3u8/sig/KP6CIffxvgs/expires/1628879997658/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325388074650/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzfbNla.png" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 1[/COLOR]
+https://vsd95.mycdn.me/hls/1516434295450.m3u8/sig/ri8Pv45L-Zk/expires/1629492153549/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2346170130074/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSP9l52.png" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 2[/COLOR]
+https://vsd97.mycdn.me/hls/1516430756506.m3u8/sig/L7amOGkJVFU/expires/1629492204304/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2346166918810/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaPYL1A.png" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 3[/COLOR]
+https://vsd105.mycdn.me/hls/1502785440410.m3u8/sig/5WsesgPMNbU/expires/1629492248374/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2334584675994/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOtdfXi.png" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 4[/COLOR]
+https://vsd96.mycdn.me/hls/1515803314842.m3u8/sig/3ReUMzUgXnI/expires/1629492280758/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2345657704090/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoMkPcg.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 5[/COLOR]
+https://vsd72.mycdn.me/hls/1491818318490.m3u8/sig/-CcrpfDt8AY/expires/1628881934225/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325292261018/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ggV9Exp.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 5 פלוס[/COLOR]
+https://vsd138.mycdn.me/hls/1491857181338.m3u8/sig/MImng75cT9k/expires/1628882002350/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325322210970/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9ZpVTX.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 5 לייב[/COLOR]
+https://vsd116.mycdn.me/hls/1491889556122.m3u8/sig/GAsC_QBZORU/expires/1628882059159/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325348753050/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GuH6TDl.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 5 סטארט[/COLOR]
+https://vsd131.mycdn.me/hls/1491901614746.m3u8/sig/R12EKFTINko/expires/1628882121755/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325357993626/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/17q8og9.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט 5 גולד[/COLOR]
+https://vsd137.mycdn.me/hls/1492003981978.m3u8/sig/ZvLvS8XUQjA/expires/1628882223210/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325439454874/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYyyAYM.jpg" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] ספורט ONE 1[/COLOR]
+https://vsd64.mycdn.me/hls/1506107919002.m3u8/sig/k2On0YxFp-M/expires/1629491920706/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2337343413914/video.m3u8?p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpgRa5M.png" group-title="[COLOR blue][COLOR deepskyblue]פסק זמן [/COLOR]",[COLOR aqua] הוט-3[/COLOR]
+https://vsd87.mycdn.me/hls/1492229032602.m3u8/sig/3j1ATfp2HDw/expires/1628882328633/srcIp/8.8.8.8/clientType/9/srcAg/CHROME_ANDROID/mid/2325621120666/video.m3u8?p
