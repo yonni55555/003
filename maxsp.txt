@@ -1,0 +1,10 @@
+
+<dir><title>[COLOR aqua]ספורט 1[/COLOR]</title><link>https://maxsport.one/stream140.php</link> <thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 2 [/COLOR]</title><link>https://maxsport.one/stream141.php</link> <thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 3[/COLOR]</title><link>https://maxsport.one/stream142.php</ link><thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 4[/COLOR]</title><link>https://maxsport.one/stream143.php</link><thumbnail >kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 5[/COLOR]</title><link>https://maxsport.one/stream144.php</link><thumbnail >kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 9[/COLOR]</title><link>https://maxsport.one/stream145.php</link> <thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 9[/COLOR]</title><link>https://maxsport.one/stream146.php</link>< thumbnail>kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 9[/COLOR]</title><link>https://maxsport.one/stream147.php</link><thumbnail >kids.png</thumbnail></dir>
+<dir><title>[COLOR aqua]ספורט 9[/COLOR]</title><link>https://maxsport.one/stream148.php</link> <thumbnail>kids.png</thumbnail></dir>
